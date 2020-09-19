@@ -1,2 +1,5 @@
 gensim
 gdown
+numpy
+torch
+nltk>=3

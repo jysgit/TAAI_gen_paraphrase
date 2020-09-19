@@ -27,3 +27,18 @@ Use lexical bundles in "Lonely Planet" to generate comprehensive phrase embeddin
     gdown -O models/GoogleNews-vectors-negative300.bin --id 0B7XkCwpI5KDYNlNUTTlSS21pQmM
     ```
  2. 於訓練時指定pretrained model位置：`python train.py -i ${INPUT} -p models/GoogleNews-vectors-negative300.bin`（其餘參數可參照上方說明）。
+p
+## InferSent encoding
+
+1. 下載 InferSent pretrained model：
+   ```
+   mkdir encoders
+   curl -Lo encoders/infersent2.pkl https://dl.fbaipublicfiles.com/infersent/infersent2.pkl
+   ```
+2. 利用 get_emb_from_InferSent.py 抓取 phrase embeddings。
+ex. `python get_emb_from_InferSent.py -w2v models/myfinetuned/vector.kv -if encoders/infersent2.pkl -wd word_embs -bd bundle_embs bundles.txt`  
+**參數說明：**  
+ + `-w2v`: gensim.KeyedVector 格式的 w2v embedding 位置。可用 [train.py](#Training) 輸出的 `vector.kv` 檔案作為 input。
+ + `-if`: InferSent 的 pretrained model 位置。
+ + `wd`: word embedding 存放位置。內部需有 InferSent 的 beggin-of-sent 與 end-of-sent 兩個 embedding 存在。
+ + `bd`: 輸出的 bundle embedding 存放位置。

@@ -1,5 +1,10 @@
 # model datas
 model*/
+encoders*/
+*_embs/
 
-# pythen environment
+# environment files
+.DS_store/
+.ipynb_checkpoints/
+__pycache__/
 env/
