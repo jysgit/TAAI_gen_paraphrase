@@ -3,3 +3,4 @@ gdown
 numpy
 torch
 nltk>=3
+scipy

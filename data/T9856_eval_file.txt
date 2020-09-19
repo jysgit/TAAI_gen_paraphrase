@@ -1,0 +1,3633 @@
+violent video,violent video games,0.8
+media violence,violent video games,0.9
+violent games,violent video games,1
+grand theft,violent video games,0.6
+entertainment software,violent video games,0.7
+youth violence,violent video games,0.6
+aggressive behavior,violent video games,0.9
+computer games,violent video games,0.8
+violent video games,violent video games,1
+grand theft auto,violent video games,1
+video game industry,violent video games,0.9
+intimate partner violence,violent video games,0.4
+first person shooter,violent video games,0.9
+video game content,violent video games,1
+entertainment software rating,violent video games,0.9
+software rating board,violent video games,0.9
+sexual violence,violent video games,0.4
+action games,violent video games,0.9
+violent content,violent video games,1
+rating board,violent video games,0.8
+violent behavior,violent video games,0.6
+online games,violent video games,1
+violent acts,violent video games,0.8
+content rating,violent video games,1
+strategy games,violent video games,0.7
+child maltreatment,violent video games,0
+kutner and olson,violent video games,1
+game content rating,violent video games,1
+columbine high school,violent video games,0.7
+attorney jack thompson,violent video games,1
+playing video games,violent video games,0.9
+forms of violence,violent video games,0.8
+rating board esrb,violent video games,0.9
+video game play,violent video games,0.9
+measures of aggression,violent video games,0.4
+video game sales,violent video games,0.7
+aggressive behavior,online games,0.3
+video game content,attorney jack thompson,0.7
+media violence,violent acts,0.7
+aggressive behavior,rating board esrb,0.2
+computer games,measures of aggression,0
+violent video,rating board,0.5
+video game violence,rating board esrb,0.9
+computer games,columbine high school,0.6
+video game industry,game content rating,0.9
+violent games,online games,0.8
+violent video games,columbine high school,0.7
+grand theft auto,kutner and olson,1
+video game,video game sales,1
+entertainment software rating,rating board esrb,1
+entertainment software,attorney jack thompson,0.5
+video games,rating board esrb,0.9
+entertainment software rating,video game sales,0.6
+intimate partner violence,kutner and olson,0
+grand theft auto,online games,0.5
+aggressive behavior,columbine high school,1
+media violence,violent content,1
+video game industry,video game play,0.7
+youth violence,content rating,0.1
+violent video game,violent behavior,0.8
+video games,action games,1
+video game content,rating board,0.8
+grand theft auto,playing video games,1
+violent video game,rating board,0.9
+grand theft auto,video game sales,0.7
+violent video game,columbine high school,0.7
+grand theft auto,sexual violence,0.4
+video game,content rating,0.9
+media violence,measures of aggression,0.6
+media violence,sexual violence,0.7
+media violence,strategy games,0.4
+entertainment software rating,rating board,1
+grand theft,rating board esrb,0.2
+video game industry,rating board,0.7
+youth violence,sexual violence,0.7
+violent games,violent acts,0.8
+video game,columbine high school,0.5
+grand theft auto,child maltreatment,0
+violent video,measures of aggression,0.4
+video game industry,violent behavior,0.3
+violent games,playing video games,0.8
+video game content,online games,0.8
+entertainment software,forms of violence,0
+first person shooter,playing video games,0.8
+computer games,forms of violence,0
+violent video,video game play,0.5
+video game industry,violent acts,0.1
+family planning,one child policy,1
+population growth,one child policy,1
+population control,one child policy,0.9
+chinese government,one child policy,0.9
+reproductive rights,one child policy,0.8
+reproductive health,one child policy,0.1
+falun gong,one child policy,0
+hong kong,one child policy,0.2
+rural areas,one child policy,0.1
+mainland china,one child policy,0.6
+programme of action,one child policy,0.3
+abuse of psychiatry,one child policy,0
+republic of china,one child policy,0.9
+population and development,one child policy,0.5
+social sex selection,one child policy,0.6
+population control policies,one child policy,1
+conference on population,one child policy,0.2
+total fertility rate,one child policy,0.7
+sex selective abortion,one child policy,0.9
+compulsory sterilization programs,one child policy,0.5
+population density,one child policy,0.8
+cultural revolution,one child policy,0.1
+urban population,one child policy,0.1
+total population,one child policy,0.7
+ericsson method,one child policy,0.2
+ethnic minorities,one child policy,0
+fertility rate,one child policy,0.7
+gender imbalance,one child policy,1
+urban areas,one child policy,0.2
+rapid population growth,one child policy,1
+family planning services,one child policy,0.6
+special administrative regions,one child policy,0
+international planned parenthood,one child policy,0.6
+united nations population,one child policy,0
+planned parenthood federation,one child policy,0.3
+family planning programs,one child policy,1
+children per woman,one child policy,1
+republic of china,special administrative regions,0.7
+social sex selection,ericsson method,0.9
+conference on population,united nations population,0.6
+population control,birth control,1
+conference on population,total population,0.7
+sex selective abortion,family planning programs,0.7
+compulsory sterilization programs,cultural revolution,0
+abuse of psychiatry,fertility rate,0
+compulsory sterilization programs,population density,0.5
+population control,urban areas,0.4
+population growth,family planning programs,0.9
+mainland china,rapid population growth,0.6
+hong kong,rapid population growth,0.2
+abuse of psychiatry,planned parenthood federation,0
+hong kong,birth control,0.1
+social sex selection,special administrative regions,0
+sex selective abortion,birth control,0.9
+compulsory sterilization programs,children per woman,0.3
+conference on population,fertility rate,0.5
+population and development,urban areas,0.4
+population growth,urban areas,0.3
+population control policies,urban population,0.5
+republic of china,ethnic minorities,0.1
+programme of action,urban areas,0
+programme of action,gender imbalance,0
+social sex selection,urban population,0.1
+population control policies,gender imbalance,0.6
+reproductive rights,rapid population growth,0.4
+population growth,international planned parenthood,0.6
+sex selective abortion,ericsson method,0.6
+reproductive rights,population density,0.5
+population control,total population,0.9
+rural areas,rapid population growth,0.2
+population control policies,cultural revolution,0
+population control policies,united nations population,0.4
+population growth,special administrative regions,0
+population growth,ethnic minorities,0.4
+hong kong,population density,0.7
+total fertility rate,birth control,0.8
+falun gong,family planning services,0
+republic of china,family planning programs,0.3
+reproductive rights,fertility rate,0.4
+mainland china,family planning programs,0.6
+compulsory sterilization programs,fertility rate,0.8
+republic of china,planned parenthood federation,0.1
+chinese government,children per woman,0.1
+social sex selection,cultural revolution,0
+affirmative action,affirmative action,1
+racial discrimination,affirmative action,1
+equal opportunity,affirmative action,1
+civil rights,affirmative action,0.6
+african americans,affirmative action,1
+national origin,affirmative action,0.7
+title vii,affirmative action,0.7
+color blindness,affirmative action,0.4
+reverse discrimination,affirmative action,1
+native americans,affirmative action,0.9
+equality of opportunity,affirmative action,1
+based on race,affirmative action,1
+affirmative action policies,affirmative action,1
+black economic empowerment,affirmative action,0.9
+equality of outcome,affirmative action,0.8
+people of color,affirmative action,1
+race color religion,affirmative action,0.8
+color religion sex,affirmative action,0.9
+racial groups,affirmative action,0.9
+government jobs,affirmative action,0.3
+racial prejudice,affirmative action,1
+jim crow,affirmative action,0.8
+white americans,affirmative action,0.7
+sex discrimination,affirmative action,1
+employment opportunity,affirmative action,1
+racial differences,affirmative action,0.9
+civil service,affirmative action,0.1
+mexican american,affirmative action,0.9
+jim crow laws,affirmative action,0.8
+grutter v bollinger,affirmative action,0.8
+level playing field,affirmative action,0.8
+race creed color,affirmative action,0.9
+employment opportunity commission,affirmative action,1
+nation of islam,affirmative action,0.1
+discourse of race,affirmative action,0.8
+modern symbolic prejudice,affirmative action,0.8
+reverse discrimination,modern symbolic prejudice,0.9
+black economic empowerment,government jobs,0.1
+color blindness,nation of islam,0.1
+national origin,racial prejudice,0.7
+civil rights,mexican american,0.3
+based on race,nation of islam,0.3
+title vii,race creed color,0.8
+based on race,mexican american,0.7
+race color religion,level playing field,0.2
+title vii,grutter v bollinger,0.8
+native americans,discrimination in employment,0.7
+civil rights,discourse of race,0.5
+equality of outcome,level playing field,0.7
+equal employment opportunity,mexican american,0.9
+affirmative action programs,racial prejudice,1
+equality of opportunity,civil service,0.2
+national origin,government jobs,0.1
+equality of opportunity,modern symbolic prejudice,0.7
+people of color,racial differences,1
+equal employment opportunity,civil service,0.3
+title vii,discourse of race,0.6
+title vii,racial groups,0.9
+equal employment opportunity,jim crow,0.9
+affirmative action programs,government jobs,0.3
+racial discrimination,discrimination in employment,1
+equality of outcome,employment opportunity commission,0.8
+intellectual property,intellectual property rights,1
+copyright law,intellectual property rights,1
+property rights,intellectual property rights,1
+copyright holder,intellectual property rights,1
+berne convention,intellectual property rights,1
+public domain,intellectual property rights,0.6
+anti copyright,intellectual property rights,1
+exclusive rights,intellectual property rights,0.7
+copyright laws,intellectual property rights,1
+private property,intellectual property rights,0.9
+intellectual property law,intellectual property rights,1
+intellectual property laws,intellectual property rights,1
+theories of property,intellectual property rights,0.9
+progress of science,intellectual property rights,0.2
+theory of property,intellectual property rights,1
+ownership of capital,intellectual property rights,0.3
+existing copyright law,intellectual property rights,1
+first sale doctrine,intellectual property rights,1
+patent laws,intellectual property rights,1
+fair dealing,intellectual property rights,0.9
+john locke,intellectual property rights,0.7
+public property,intellectual property rights,0.7
+modern patent,intellectual property rights,1
+patent rights,intellectual property rights,0.9
+property systems,intellectual property rights,0.9
+copyright system,intellectual property rights,1
+antiviral drugs,intellectual property rights,0
+theory of property,john locke,0.9
+copyright law,property systems,1
+existing copyright law,fair dealing,0.9
+private property,public property,1
+private property,fair dealing,0.3
+first sale doctrine,copyright system,1
+property rights,patent rights,1
+copyright law,john locke,0.5
+copyright law,patent rights,1
+property rights,modern patent,0.9
+theory of property,patent laws,0.9
+ownership of capital,antiviral drugs,0
+intellectual property law,property systems,0.9
+intellectual property law,public property,0.8
+intellectual property,patent rights,1
+theory of property,public property,1
+private property,patent laws,0.8
+progress of science,patent laws,0.2
+copyright law,paris convention,0.8
+existing copyright law,property systems,0.9
+theories of property,john locke,0.9
+existing copyright law,paris convention,0.8
+intellectual property rights,patent laws,1
+intellectual property rights,antiviral drugs,0.1
+theories of property,public property,1
+property rights,john locke,0.8
+video games,violent video games,1
+video game,violent video games,1
+violent video game,violent video games,1
+video game violence,violent video games,1
+video games,video game play,1
+software rating board,rating board esrb,1
+birth control,one child policy,0.9
+intellectual property rights,intellectual property rights,1
+abuse of psychiatry,family planning programs,0
+population growth,children per woman,0.9
+equal employment opportunity,affirmative action,1
+discrimination against women,affirmative action,1
+paris convention,intellectual property rights,1
+computer games,online games,1
+affirmative action programs,affirmative action,1
+population growth,total population,1
+discrimination in employment,affirmative action,1
+anabolic steroids,performance enhancing drugs,1
+anabolic steroids,professional sports,0.9
+anabolic steroid,performance enhancing drugs,1
+anabolic steroid,professional sports,0.9
+drug abuse,performance enhancing drugs,1
+drug abuse,professional sports,0.6
+substance abuse,performance enhancing drugs,0.9
+substance abuse,professional sports,0.7
+steroid users,performance enhancing drugs,1
+steroid users,professional sports,1
+east germany,performance enhancing drugs,0.3
+east germany,professional sports,0
+anti doping,performance enhancing drugs,1
+anti doping,professional sports,0.8
+east german,performance enhancing drugs,0.3
+east german,professional sports,0
+controlled substances,performance enhancing drugs,1
+controlled substances,professional sports,0.9
+growth hormone,performance enhancing drugs,1
+growth hormone,professional sports,0.9
+performance enhancing drugs,performance enhancing drugs,1
+performance enhancing drugs,professional sports,1
+controlled substances act,performance enhancing drugs,0.9
+controlled substances act,professional sports,0.5
+major league baseball,performance enhancing drugs,0.6
+major league baseball,professional sports,1
+performance enhancing substances,performance enhancing drugs,1
+performance enhancing substances,professional sports,0.9
+tour de france,performance enhancing drugs,0.8
+tour de france,professional sports,1
+anabolic steroid users,performance enhancing drugs,1
+anabolic steroid users,professional sports,0.9
+human growth hormone,performance enhancing drugs,1
+human growth hormone,professional sports,0.7
+international olympic committee,performance enhancing drugs,0.7
+international olympic committee,professional sports,0.9
+national football league,performance enhancing drugs,0.5
+national football league,professional sports,1
+east german athlete,performance enhancing drugs,0.8
+east german athlete,professional sports,0.7
+schedule iii,performance enhancing drugs,0.9
+schedule iii,professional sports,0.1
+olympic champion,performance enhancing drugs,0.4
+olympic champion,professional sports,0.9
+abuse potential,performance enhancing drugs,0.7
+abuse potential,professional sports,0.3
+systematic doping,performance enhancing drugs,0.9
+systematic doping,professional sports,0.8
+random testing,performance enhancing drugs,0.8
+random testing,professional sports,0.6
+androgenic:anabolic ratio,performance enhancing drugs,0.8
+androgenic:anabolic ratio,professional sports,0.4
+mitchell report,performance enhancing drugs,1
+mitchell report,professional sports,0.9
+androgenic steroids,performance enhancing drugs,1
+androgenic steroids,professional sports,0.9
+left ventricle,performance enhancing drugs,0.1
+left ventricle,professional sports,0
+substance dependence,performance enhancing drugs,0.9
+substance dependence,professional sports,0.5
+dsm iv tr,performance enhancing drugs,0.1
+dsm iv tr,professional sports,0.2
+east germany,abuse potential,0
+performance enhancing drugs,systematic doping,1
+east german,dsm iv tr,0
+east german athlete,left ventricle,0
+anti doping,left ventricle,0.1
+performance enhancing drugs,schedule iii,0.9
+national football league,androgenic steroids,0.5
+anti doping,systematic doping,1
+growth hormone,olympic champion,0.4
+performance enhancing drugs,substance dependence,0.8
+national football league,systematic doping,0.4
+drug abuse,abuse potential,0.8
+substance abuse,systematic doping,1
+international olympic committee,systematic doping,0.5
+performance enhancing substances,abuse potential,0.9
+east german,olympic champion,0.1
+east germany,androgenic:anabolic ratio,0
+growth hormone,schedule iii,0.4
+east german athlete,androgenic:anabolic ratio,0.1
+tour de france,random testing,0.3
+east german athlete,dsm iv tr,0.1
+performance enhancing drugs,olympic champion,0.4
+east germany,olympic champion,0.1
+human growth hormone,dsm iv tr,0.1
+substance abuse,androgenic:anabolic ratio,0.5
+east german athlete,systematic doping,0.7
+substance abuse,olympic champion,0.4
+anabolic steroids,random testing,0.7
+performance enhancing drugs,dsm iv tr,0.2
+anabolic steroids,mitchell report,1
+tour de france,abuse potential,0.3
+performance enhancing drugs,androgenic steroids,1
+steroid users,random testing,1
+anabolic steroid,abuse potential,0.6
+tour de france,dsm iv tr,0.2
+anabolic steroid users,androgenic steroids,1
+east german,random testing,0
+east german,systematic doping,0.6
+human growth hormone,olympic champion,0.4
+physical activity,physical education,1
+democratic education,physical education,0.2
+childhood obesity,physical education,0.9
+physical education,physical education,1
+body fat,physical education,0.7
+normal weight,physical education,0.6
+physical exercise,physical education,1
+democratic schools,physical education,0.1
+physical fitness,physical education,1
+obese people,physical education,0.7
+risk of obesity,physical education,0.7
+overweight and obesity,physical education,0.8
+rates of obesity,physical education,0.8
+excess body fat,physical education,0.8
+overweight and obese,physical education,0.9
+rate of obesity,physical education,0.7
+obesity in children,physical education,1
+overweight or obese,physical education,0.9
+fast food restaurants,physical education,0.2
+physical education curriculum,physical education,1
+severe obesity,physical education,0.8
+obese children,physical education,0.8
+school rules,physical education,0.3
+fat percentage,physical education,0.6
+summerhill school,physical education,0
+person's weight,physical education,0.5
+gain weight,physical education,0.8
+metabolic equivalent,physical education,0.4
+school meeting,physical education,0.1
+corporeal punishment,physical education,0.1
+physical fitness,fat percentage,1
+childhood obesity,school rules,0.1
+excess body fat,gain weight,1
+overweight and obese,fat percentage,1
+overweight and obesity,school rules,0.1
+physical activity,school meeting,0
+obesity in children,school meeting,0
+childhood obesity,fat percentage,1
+democratic education,school rules,0.5
+rates of obesity,severe obesity,1
+physical activity,severe obesity,1
+democratic schools,school meeting,0.4
+democratic schools,school rules,0.7
+physical activity,summerhill school,0
+physical exercise,person's weight,0.8
+fast food restaurants,fat percentage,0.7
+risk of obesity,fat percentage,0.8
+style of boxing,contact between players,0.6
+loss of consciousness,hall of fame,0
+rear hand,counter punch,0.8
+brain injury,protect the body,0.4
+days or weeks,counter punch,0
+mike tyson,straight punch thrown,0.4
+joe frazier,number of rounds,0.3
+mixed martial arts,shoulder lean,0.3
+days or weeks,contact between players,0.1
+contact sport,professional boxing,1
+lead hand,muay thai,0.3
+mild head injury,protect the body,0.4
+style of boxing,john l sullivan,0.6
+style of boxing,bare knuckle,0.9
+mild head injury,professional boxing,0.9
+contact sports,extended arm,0.1
+mixed martial arts,protect the head,0.6
+days or weeks,professional boxing,0
+contact sport,straight punch thrown,0.4
+mild head injury,john l sullivan,0.1
+mike tyson,unable to continue,0.2
+peek a boo,bare knuckle,0.8
+lead hand,protect the body,0.7
+post traumatic amnesia,number of rounds,0.2
+mild head injury,hall of fame,0
+peek a boo,dementia pugilistica,0.1
+discovery institute,science classrooms,0.5
+acceptance of evolution,neo creationists,0.9
+scientific theory,earth creationism,0.8
+creation science,belief in evolution,1
+theory of evolution,creationists claim,0.9
+teaching of evolution,dover area school,0.4
+edwards v aguillard,modern evolutionary synthesis,0.6
+intelligent design,ussher chronology,0.8
+creation science,dover area school,0.5
+discovery institute,darwin's theory,0.8
+scientific theory,evidence for evolution,0.6
+theory of evolution,ussher chronology,1
+theistic evolution,area school,0
+supporters of evolution,objection to evolution,1
+evolutionary theory,objection to evolution,1
+acceptance of evolution,objection to evolution,1
+young earth creationism,belief in evolution,0.9
+teaching of evolution,modern evolutionary synthesis,1
+life on earth,fossil record,0.8
+discovery institute,literal interpretation,0.1
+supporters of evolution,ussher chronology,0.7
+science classes,earth creationism,0.5
+young earth creationism,science classrooms,0.3
+intelligent design,evidence for evolution,1
+scientific theory,area school,0
+intelligent design movement,science classrooms,0.5
+evolutionary theory,science classrooms,0.8
+genesis creation narrative,public school science,0.5
+discovery institute,ussher chronology,0.5
+discovery institute,evidence for evolution,0.6
+scientific community,origin of life,0.4
+scientific theory,belief in creationism,0.8
+intelligent design,origin of life,1
+evolutionary theory,area school,0
+teaching of evolution,evidence for evolution,1
+scientific community,public school science,0.3
+edwards v aguillard,literal interpretation,0.3
+young earth creationism,evidence for evolution,0.8
+science classes,literal interpretation,0.1
+evolutionary theory,earth creationism,1
+genesis creation narrative,modern evolutionary synthesis,1
+creation evolution controversy,creationist organizations,0.9
+teaching of evolution,evolution and religion,0.9
+intelligent design,darwin's theory,0.9
+intelligent design movement,ussher chronology,0.9
+edwards v aguillard,diversity of life,0.3
+intelligent design movement,belief in evolution,1
+creation science,area school,0
+creation science,literal interpretation,0.3
+creation evolution controversy,area school,0
+melting pot,ethnic group,1
+cultural diversity,cultural communities,0.9
+policy of multiculturalism,white australia policy,0.8
+canadian identity,acculturation strategies,0.6
+cultural imperialism,multiculturalism act,0.8
+multicultural education,protection and promotion,0.3
+multicultural society,cultural communities,0.9
+melting pot theory,level of immigration,0.8
+cultural diversity,international students,0.8
+alliance of civilizations,level of immigration,0.3
+multicultural education,ethnic group,0.8
+multicultural education,race and ethnicity,0.9
+critics of multiculturalism,race and ethnicity,0.7
+cultural competence,ethnic and cultural,0.6
+cultural imperialism,protection and promotion,0.3
+canadian identity,ethnic group,0.6
+melting pot,ethnic and cultural,0.7
+multicultural society,diverse communities,0.9
+multicultural society,multiculturalism act,0.9
+knowledge and skills,assimilation of immigrants,0.1
+policy of multiculturalism,group or groups,0.3
+indigenous peoples,white australia policy,0.6
+southern and eastern,protection and promotion,0
+critic of multiculturalism,assimilation of immigrants,0.7
+melting pot theory,levels of immigration,0.8
+kramer's dad theory,ethnic and cultural,0.5
+ethnic groups,protection and promotion,0.4
+ethnic groups,indigenous individuals,0.9
+national identity,diverse communities,0.9
+lottery ticket,atlantic city,0.2
+safe port act,online lotteries,0.6
+winning the jackpot,atlantic city,0.5
+unlawful internet gambling,slot machines,0.8
+winning the jackpot,southern district,0
+pathological gambling,winning numbers,0.2
+games of chance,payment processors,0.1
+problem gambling,online lotteries,0.6
+pathological gambling,payment processors,0.1
+uk gambling commission,gam anon,0.5
+federal wire act,atlantic city,0.2
+bet or wager,gam anon,0.9
+illegal gambling,online casinos,1
+unlawful internet gambling,gam anon,0.6
+lottery ticket,slot machines,0.6
+uk gambling commission,online lotteries,0.8
+problem gambling,winning numbers,0.3
+pathological gambling,atlantic city,0.5
+chance of winning,gam anon,0.3
+las vegas,online lotteries,0.5
+immigration service,right to asylum,0.9
+asylum seekers,right to asylum,1
+immigration officers,right to asylum,0.9
+illegal immigrants,right to asylum,0.9
+immigration control,right to asylum,1
+home office,right to asylum,0.3
+refugee status,right to asylum,1
+boat people,right to asylum,0.8
+home secretary,right to asylum,0
+illegal entrants,right to asylum,1
+status of refugees,right to asylum,1
+commissioner for refugees,right to asylum,0.9
+law on refugees,right to asylum,1
+chief immigration officer,right to asylum,0.7
+fear of persecution,right to asylum,0.9
+immigration service enforcement,right to asylum,0.7
+country of origin,right to asylum,0.4
+nations high commissioner,right to asylum,0.4
+internally displaced persons,right to asylum,0.4
+uk border agency,right to asylum,0.5
+granted asylum,right to asylum,1
+displaced people,right to asylum,1
+home affairs,right to asylum,0.3
+asylum claims,right to asylum,1
+illegal entrant,right to asylum,0.9
+refugee camps,right to asylum,0.8
+asylum applications,right to asylum,1
+foreign national,right to asylum,0.5
+border control,right to asylum,0.7
+foreign nationals,right to asylum,0.8
+enforcement immigration officers,right to asylum,0.9
+ports of entry,right to asylum,0.3
+countries of origin,right to asylum,0.7
+british nationality act,right to asylum,0.6
+international refugee organization,right to asylum,1
+criminal casework team,right to asylum,0.2
+committee for refugees,right to asylum,0.9
+federal migration service,right to asylum,0.9
+uk and colonies,right to asylum,0.1
+eu blue card,right to asylum,0.3
+status of refugees,foreign national,0.6
+law on refugees,criminal casework team,0.2
+country of origin,criminal casework team,0.1
+chief immigration officer,foreign national,0.4
+boat people,asylum applications,0.6
+country of origin,committee for refugees,0.3
+nations high commissioner,british nationality act,0.3
+fear of persecution,asylum applications,0.9
+immigration service,ports of entry,0.7
+nations high commissioner,ports of entry,0.1
+country of origin,asylum applications,0.7
+asylum seekers,british nationality act,0.5
+country of origin,home affairs,0.1
+illegal entrants,refugee camps,0.9
+illegal immigrants,refugee camps,0.8
+asylum seekers,illegal entrant,1
+status of refugees,displaced people,1
+nations high commissioner,international refugee organization,0.4
+immigration officers,british nationality act,0.4
+immigration control,committee for refugees,0.8
+chief immigration officer,countries of origin,0.2
+nations high commissioner,refugee camps,0.4
+asylum seekers,home affairs,0.4
+asylum seekers,granted asylum,1
+illegal entrants,granted asylum,0.9
+chief immigration officer,international refugee organization,0.6
+immigration control,foreign national,0.8
+law on refugees,displaced people,1
+british monarch,grace of god,0.3
+prince or princess,holy roman empire,0.3
+prime minister,bi partisan appointment,0.5
+head of state,elective monarchy,0.9
+prince or princess,hereditary monarchy,1
+england and scotland,absolute monarchy,0.5
+commonwealth of nations,oath of allegiance,0.8
+commonwealth of nations,grace of god,0.1
+head of state,bi partisan appointment,0.7
+church of england,vatican city,0.6
+commonwealth realms,queen elizabeth,1
+constitutional monarchy,european monarchies,1
+england and scotland,oath of allegiance,0.4
+treaty of waitangi,queen elizabeth,0.4
+form of government,holy roman empire,0.6
+church of england,duke of york,0.4
+act of settlement,hereditary monarchy,0.4
+prince or princess,reserve powers,0.3
+queen elizabeth ii,elective monarchy,0.5
+prince charles,grants in aid,0
+prime minister,elective monarchies,0.4
+united kingdom,cognatic primogeniture,0.2
+church of england,majority of canadians,0
+constitutional monarchies,edward viii,0.9
+act of settlement,majority of canadians,0.1
+royal prerogative,duchess of cornwall,0.5
+line of succession,elective monarchy,0.8
+prince charles,reserve powers,0.5
+educational psychology,school leaving age,0.1
+secondary education,school leaving age,0.6
+compulsory education,school leaving age,1
+tertiary education,school leaving age,0.8
+primary education,school leaving age,0.7
+virtual manipulatives,school leaving age,0
+good citizens,school leaving age,0.1
+higher education,school leaving age,0.6
+formal education,school leaving age,0.6
+post secondary,school leaving age,0.5
+school leaving age,school leaving age,1
+theory of education,school leaving age,0.5
+universal primary education,school leaving age,0.7
+voting systems,open primaries,1
+runoff voting,open primaries,0.9
+tactical voting,open primaries,0.8
+voting system,open primaries,1
+vote splitting,open primaries,0.7
+plurality voting,open primaries,0.8
+absolute majority,open primaries,0.6
+political parties,open primaries,0.9
+strategic nomination,open primaries,0.7
+instant runoff voting,open primaries,0.8
+nonpartisan blanket primary,open primaries,1
+majority of votes,open primaries,1
+rounds of voting,open primaries,0.9
+single transferable vote,open primaries,0.7
+number of votes,open primaries,0.7
+meet this criterion,open primaries,0
+primary semi closed,open primaries,1
+number of candidates,open primaries,0.7
+round of voting,open primaries,0.7
+super tuesday,open primaries,0.9
+single winner,open primaries,0.6
+proportional representation,open primaries,0.7
+exhaustive ballot,open primaries,0.9
+condorcet methods,open primaries,0.7
+alternative vote,open primaries,0.6
+voting methods,open primaries,1
+apple pie,open primaries,0.1
+republican party,open primaries,0.7
+condorcet winner,open primaries,0.8
+number of voters,open primaries,0.8
+influence the result,open primaries,0.3
+automatic ballot access,open primaries,0.7
+round of counting,open primaries,0.5
+number of seats,open primaries,0.5
+number of delegates,open primaries,0.8
+candidate is eliminated,open primaries,0.6
+voting system criteria,open primaries,0.8
+democratic national committee,open primaries,0.6
+arrow's impossibility theorem,open primaries,0.6
+number of votes,apple pie,0.1
+primary semi closed,super tuesday,0.4
+vote splitting,alternative vote,0.8
+number of candidates,voting system criteria,0.7
+plurality voting,alternative vote,0.9
+nonpartisan blanket primary,exhaustive ballot,0.8
+number of candidates,proportional representation,0.7
+rounds of voting,number of voters,0.5
+political parties,voting methods,0.4
+number of candidates,influence the result,0.3
+single transferable vote,candidate is eliminated,0.4
+primary semi closed,apple pie,0.1
+instant runoff voting,proportional representation,0.5
+instant runoff voting,number of delegates,0.3
+runoff voting,automatic ballot access,0.5
+number of votes,number of seats,1
+instant runoff voting,super tuesday,0.4
+meet this criterion,number of seats,0.2
+round of voting,influence the result,0.2
+meet this criterion,republican party,0.1
+plurality voting,single winner,0.6
+voting system,apple pie,0.2
+runoff voting,proportional representation,0.4
+political parties,alternative vote,0.3
+primary semi closed,condorcet winner,0.4
+instant runoff voting,single winner,1
+voting systems,automatic ballot access,0.8
+single transferable vote,apple pie,0.1
+instant runoff voting,influence the result,0.4
+open primary,alternative vote,0.7
+vote splitting,automatic ballot access,0.5
+round of voting,apple pie,0.1
+nonpartisan blanket primary,proportional representation,0.3
+plurality voting,voting system criteria,1
+primary semi closed,number of delegates,0.4
+vote splitting,number of seats,0.4
+runoff voting,influence the result,0.3
+single transferable vote,number of seats,0.4
+majority of votes,arrow's impossibility theorem,0.4
+strategic nomination,republican party,0.5
+rounds of voting,automatic ballot access,0.4
+vote splitting,influence the result,0.3
+rounds of voting,arrow's impossibility theorem,0.6
+vote splitting,apple pie,0.1
+absolute majority,automatic ballot access,0.4
+nonpartisan blanket primary,voting methods,0.9
+majority of votes,single winner,1
+strategic nomination,voting methods,0.5
+vote splitting,democratic national committee,0.3
+round of voting,condorcet methods,0.5
+number of candidates,condorcet methods,0.6
+round of voting,democratic national committee,0.4
+voting systems,number of voters,0.9
+nonpartisan blanket primary,number of seats,0.4
+tactical voting,candidate is eliminated,0.6
+rounds of voting,condorcet winner,0.5
+majority of votes,round of counting,0.7
+number of candidates,republican party,0.5
+round of voting,number of seats,0.2
+plurality voting,proportional representation,0.5
+meet this criterion,exhaustive ballot,0.1
+meet this criterion,candidate is eliminated,0
+nonpartisan blanket primary,voting system criteria,0.8
+round of voting,condorcet winner,0.6
+absolute majority,alternative vote,0.5
+voting systems,single winner,0.7
+open primary,number of delegates,0.5
+rounds of voting,apple pie,0.2
+primary semi closed,condorcet methods,0.4
+single transferable vote,super tuesday,0.4
+meet this criterion,number of delegates,0
+vote splitting,voting system criteria,0.6
+vote splitting,voting methods,0.8
+round of voting,exhaustive ballot,0.7
+nonpartisan blanket primary,single winner,0.7
+plurality voting,round of counting,0.6
+round of voting,round of counting,0.8
+instant runoff voting,democratic national committee,0.3
+majority of votes,condorcet methods,0.7
+rounds of voting,republican party,0.3
+rounds of voting,round of counting,0.7
+meet this criterion,automatic ballot access,0.1
+john paul,catholic church,0.9
+john paul,barrier methods of contraception,0.4
+birth control,catholic church,0.5
+birth control,barrier methods of contraception,1
+sex education,catholic church,0.4
+sex education,barrier methods of contraception,1
+pope john,catholic church,1
+pope john,barrier methods of contraception,0.3
+catholic church,catholic church,1
+catholic church,barrier methods of contraception,0.5
+public health,catholic church,0.1
+public health,barrier methods of contraception,0.6
+sexually transmitted,catholic church,0.2
+sexually transmitted,barrier methods of contraception,0.9
+humanae vitae,catholic church,0.9
+humanae vitae,barrier methods of contraception,0.5
+family planning,catholic church,0.3
+family planning,barrier methods of contraception,1
+female condom,catholic church,0.2
+female condom,barrier methods of contraception,1
+john paul ii,catholic church,0.9
+john paul ii,barrier methods of contraception,0.4
+pope benedict xvi,catholic church,1
+pope benedict xvi,barrier methods of contraception,0.4
+pope john paul,catholic church,1
+pope john paul,barrier methods of contraception,0.4
+sexually transmitted diseases,catholic church,0.2
+sexually transmitted diseases,barrier methods of contraception,0.9
+pope paul vi,catholic church,1
+pope paul vi,barrier methods of contraception,0.4
+artificial birth control,catholic church,0.4
+artificial birth control,barrier methods of contraception,1
+natural family planning,catholic church,0.6
+natural family planning,barrier methods of contraception,0.9
+sexually transmitted infections,catholic church,0.1
+sexually transmitted infections,barrier methods of contraception,0.9
+john paul ii's,catholic church,1
+john paul ii's,barrier methods of contraception,0.3
+comprehensive sex education,catholic church,0.3
+comprehensive sex education,barrier methods of contraception,1
+periodic abstinence,catholic church,0.5
+periodic abstinence,barrier methods of contraception,0.8
+sexual revolution,catholic church,0.4
+sexual revolution,barrier methods of contraception,1
+pius xii,catholic church,0.9
+pius xii,barrier methods of contraception,0.4
+paul vi,catholic church,0.9
+paul vi,barrier methods of contraception,0.4
+pontifical council,catholic church,1
+pontifical council,barrier methods of contraception,0.4
+artificial contraception,catholic church,0.5
+artificial contraception,barrier methods of contraception,1
+health care,catholic church,0.1
+health care,barrier methods of contraception,0.5
+st peter's,catholic church,0.8
+st peter's,barrier methods of contraception,0
+barrier methods,catholic church,0.5
+barrier methods,barrier methods of contraception,1
+sexuality education,catholic church,0.5
+sexuality education,barrier methods of contraception,1
+hiv and aids,catholic church,0.2
+hiv and aids,barrier methods of contraception,0.8
+sexually transmitted disease,catholic church,0.2
+sexually transmitted disease,barrier methods of contraception,0.9
+men and women,catholic church,0
+men and women,barrier methods of contraception,0.4
+sexually transmitted infection,catholic church,0.2
+sexually transmitted infection,barrier methods of contraception,0.9
+calendar based methods,catholic church,0.3
+calendar based methods,barrier methods of contraception,0.9
+roman catholic church,catholic church,1
+roman catholic church,barrier methods of contraception,0.5
+world youth day,catholic church,0.7
+world youth day,barrier methods of contraception,0.1
+oil based lubricants,catholic church,0.1
+oil based lubricants,barrier methods of contraception,0.2
+abstinence only education,catholic church,0.9
+abstinence only education,barrier methods of contraception,1
+spread of hiv,catholic church,0.2
+spread of hiv,barrier methods of contraception,1
+artificial birth control,world youth day,0.1
+family planning,paul vi,0.2
+female condom,artificial contraception,1
+john paul ii,oil based lubricants,0.1
+humanae vitae,barrier methods,0.4
+john paul ii's,st peter's,0.6
+family planning,sexually transmitted disease,0.3
+female condom,barrier methods,1
+john paul,periodic abstinence,0.1
+humanae vitae,calendar based methods,0.2
+sex education,pontifical council,0.3
+sexually transmitted diseases,sexual revolution,0.5
+pope john,sexually transmitted infection,0
+birth control,hiv and aids,0.6
+pope john,pontifical council,0.9
+pope paul vi,paul vi,1
+john paul ii,paul vi,0.9
+pope benedict xvi,men and women,0
+sexually transmitted,spread of hiv,0.9
+pope paul vi,calendar based methods,0.4
+sex education,hiv and aids,1
+comprehensive sex education,hiv and aids,0.9
+john paul,st peter's,0.7
+family planning,pontifical council,0.3
+comprehensive sex education,sexually transmitted disease,0.9
+sex education,calendar based methods,0.7
+natural family planning,world youth day,0.1
+artificial birth control,sexuality education,1
+john paul ii's,hiv and aids,0.1
+sexually transmitted infections,calendar based methods,0.3
+sexually transmitted diseases,pontifical council,0.2
+female condom,roman catholic church,0.4
+sexually transmitted,health care,0.6
+sex education,sexually transmitted disease,1
+public health,sexually transmitted infection,0.9
+comprehensive sex education,pontifical council,0.2
+natural family planning,roman catholic church,0.8
+natural family planning,oil based lubricants,0.2
+sexually transmitted diseases,world youth day,0.1
+pope paul vi,sexuality education,0.1
+natural family planning,pius xii,0.4
+pope john paul,world youth day,0.3
+john paul ii's,periodic abstinence,0.4
+family planning,spread of hiv,0.2
+john paul,health care,0
+pope john,periodic abstinence,0.2
+sex education,paul vi,0.1
+pope john paul,health care,0
+john paul ii,world youth day,0.3
+sexually transmitted infections,roman catholic church,0.1
+pope john paul,st peter's,0.5
+female condom,sexually transmitted infection,0.8
+john paul ii's,health care,0.1
+pope john,artificial contraception,0.3
+pope benedict xvi,calendar based methods,0.3
+sexually transmitted,st peter's,0
+birth control,oil based lubricants,0
+national security,military documents,0.9
+national security,anat kamm,0.8
+targeted killing,military documents,0.4
+targeted killing,anat kamm,0.4
+targeted killings,military documents,0.3
+targeted killings,anat kamm,0.3
+espionage act,military documents,1
+espionage act,anat kamm,0.5
+top secret,military documents,1
+top secret,anat kamm,0.6
+state secrets,military documents,1
+state secrets,anat kamm,0.9
+press freedom,military documents,0.6
+press freedom,anat kamm,0.7
+classified information,military documents,1
+classified information,anat kamm,0.9
+pentagon papers,military documents,1
+pentagon papers,anat kamm,0.2
+julian assange,military documents,0.6
+julian assange,anat kamm,0.6
+state secrets privilege,military documents,0.8
+state secrets privilege,anat kamm,0.4
+reporters without borders,military documents,0.5
+reporters without borders,anat kamm,0.6
+freedom of expression,military documents,0.3
+freedom of expression,anat kamm,0.7
+freedom of speech,military documents,0.3
+freedom of speech,anat kamm,0.6
+freedom of information,military documents,0.7
+freedom of information,anat kamm,0.7
+access to information,military documents,0.7
+access to information,anat kamm,0.8
+anti slapp motion,military documents,0.2
+anti slapp motion,anat kamm,0.2
+war in afghanistan,military documents,0.6
+war in afghanistan,anat kamm,0.1
+wau holland foundation,military documents,0.3
+wau holland foundation,anat kamm,0.3
+suppression of dissent,military documents,0.1
+suppression of dissent,anat kamm,0.2
+cyber dissident,military documents,0.2
+cyber dissident,anat kamm,0.4
+life imprisonment,military documents,0.1
+life imprisonment,anat kamm,0.1
+war logs,military documents,0.9
+war logs,anat kamm,0.4
+der spiegel,military documents,0.2
+der spiegel,anat kamm,0.1
+afghan war,military documents,0.4
+afghan war,anat kamm,0.2
+wikileaks documents,anat kamm,0.4
+intelligence service,military documents,0.8
+intelligence service,anat kamm,0.6
+safe harbor,military documents,0.1
+safe harbor,anat kamm,0
+wikileaks released,military documents,0.9
+wikileaks released,anat kamm,0.3
+penalty for treason,military documents,0.3
+penalty for treason,anat kamm,0.9
+prosecutions for treason,military documents,0.4
+prosecutions for treason,anat kamm,0.8
+war documents leak,military documents,0.9
+war documents leak,anat kamm,1
+false claims act,military documents,0.3
+false claims act,anat kamm,0.3
+official secrets act,military documents,0.8
+official secrets act,anat kamm,0.4
+ellsberg and russo,military documents,0.7
+ellsberg and russo,anat kamm,0.8
+punished with imprisonment,military documents,0.2
+punished with imprisonment,anat kamm,0.9
+daniel domscheit berg,military documents,0.5
+daniel domscheit berg,anat kamm,0.3
+enemy at war,military documents,0.4
+enemy at war,anat kamm,0.1
+central intelligence agency,military documents,0.8
+central intelligence agency,anat kamm,0.3
+top secret,cyber dissident,0.2
+espionage act,safe harbor,0
+war in afghanistan,wikileaks released,0.6
+freedom of speech,official secrets act,0.6
+anti slapp motion,safe harbor,0.1
+suppression of dissent,ellsberg and russo,0.1
+wau holland foundation,wikileaks documents,0.5
+freedom of speech,intelligence service,0
+pentagon papers,daniel domscheit berg,0.3
+top secret,prosecutions for treason,0.3
+wau holland foundation,false claims act,0.2
+top secret,penalty for treason,0.4
+reporters without borders,cyber dissident,0.3
+reporters without borders,war documents leak,0.6
+top secret,punished with imprisonment,0.1
+reporters without borders,afghan war,0.4
+freedom of speech,enemy at war,0.1
+access to information,war documents leak,0.7
+state secrets privilege,ellsberg and russo,0.6
+wau holland foundation,intelligence service,0.1
+freedom of expression,daniel domscheit berg,0.5
+wau holland foundation,official secrets act,0.4
+state secrets,wikileaks released,0.9
+freedom of information,penalty for treason,0.4
+state secrets,daniel domscheit berg,0.6
+freedom of expression,penalty for treason,0.2
+freedom of speech,war logs,0.3
+espionage act,wikileaks released,0.4
+pentagon papers,official secrets act,0.6
+targeted killing,penalty for treason,0.1
+national security,safe harbor,0.1
+state secrets privilege,punished with imprisonment,0.2
+top secret,safe harbor,0.1
+national security,war logs,0.6
+war in afghanistan,war documents leak,0.8
+suppression of dissent,daniel domscheit berg,0.3
+pentagon papers,war logs,0.8
+national security,official secrets act,1
+pentagon papers,punished with imprisonment,0.2
+suppression of dissent,der spiegel,0.1
+pentagon papers,ellsberg and russo,0.7
+reporters without borders,war logs,0.3
+reporters without borders,ellsberg and russo,0.3
+suppression of dissent,war documents leak,0.1
+access to information,punished with imprisonment,0.1
+freedom of information,central intelligence agency,0.5
+julian assange,ellsberg and russo,0.6
+reporters without borders,daniel domscheit berg,0.4
+freedom of information,afghan war,0.1
+julian assange,punished with imprisonment,0.4
+press freedom,enemy at war,0.1
+classified information,punished with imprisonment,0.1
+wau holland foundation,daniel domscheit berg,0.5
+war in afghanistan,prosecutions for treason,0.2
+access to information,wikileaks documents,0.8
+state secrets,prosecutions for treason,0.7
+freedom of speech,war documents leak,0.6
+freedom of expression,enemy at war,0.1
+top secret,wikileaks documents,0.9
+access to information,safe harbor,0
+top secret,official secrets act,1
+national security,afghan war,0.3
+freedom of speech,safe harbor,0.1
+espionage act,punished with imprisonment,0.6
+press freedom,ellsberg and russo,0.5
+targeted killings,der spiegel,0.1
+reporters without borders,der spiegel,0.4
+targeted killing,enemy at war,0.9
+suppression of dissent,safe harbor,0
+freedom of information,life imprisonment,0.1
+julian assange,daniel domscheit berg,0.9
+espionage act,false claims act,0.2
+tobacco companies,growing of tobacco,0.9
+lung cancer,growing of tobacco,0.4
+tobacco industry,growing of tobacco,1
+tobacco products,growing of tobacco,1
+tobacco advertising,growing of tobacco,0.8
+anti smoking,growing of tobacco,0.7
+smoke free,growing of tobacco,0.6
+tobacco control,growing of tobacco,0.9
+tobacco smoke,growing of tobacco,0.6
+smoking bans,growing of tobacco,0.7
+master settlement agreement,growing of tobacco,0.4
+effects of smoking,growing of tobacco,0.6
+smoke free laws,growing of tobacco,0.6
+world health organization,growing of tobacco,0.2
+environmental tobacco smoke,growing of tobacco,0.6
+british american tobacco,growing of tobacco,1
+health care costs,growing of tobacco,0.2
+adverse health effects,growing of tobacco,0.3
+production of tobacco,growing of tobacco,1
+light cigarettes,growing of tobacco,0.7
+smoking rates,growing of tobacco,0.5
+smokeless tobacco,growing of tobacco,0.8
+public places,growing of tobacco,0
+tobacco product,growing of tobacco,1
+smoking restrictions,growing of tobacco,0.6
+cigar smokers,growing of tobacco,0.8
+tobacco consumption,growing of tobacco,0.9
+cigar smoking,growing of tobacco,0.7
+american tobacco,growing of tobacco,1
+type of tobacco,growing of tobacco,1
+nicotinic acetylcholine receptors,growing of tobacco,0.4
+rates of smoking,growing of tobacco,0.7
+advertising and promotion,growing of tobacco,0.1
+smoke free workplaces,growing of tobacco,0.3
+formal statistical evidence,growing of tobacco,0.1
+pubs and clubs,growing of tobacco,0
+anti smoking movement,growing of tobacco,0.8
+bars and restaurants,growing of tobacco,0
+smoking among women,growing of tobacco,0.3
+environmental tobacco smoke,smoking rates,0.9
+tobacco industry,smokeless tobacco,1
+tobacco control,anti smoking movement,1
+british american tobacco,cigar smoking,0.8
+british american tobacco,anti smoking movement,0.5
+smoke free,american tobacco,0.4
+health care costs,bars and restaurants,0
+world health organization,smoking rates,0.4
+british american tobacco,tobacco product,0.9
+production of tobacco,anti smoking movement,0.8
+effects of smoking,bars and restaurants,0.1
+tobacco advertising,smokeless tobacco,0.3
+tobacco smoke,pubs and clubs,0.5
+tobacco smoke,advertising and promotion,0
+environmental tobacco smoke,nicotinic acetylcholine receptors,0.6
+adverse health effects,light cigarettes,0.7
+smoke free laws,pubs and clubs,0.8
+master settlement agreement,tobacco product,0.5
+tobacco companies,nicotinic acetylcholine receptors,0.4
+health care costs,smoking rates,0.4
+lung cancer,smokeless tobacco,0.6
+smoking bans,advertising and promotion,0.2
+health care costs,formal statistical evidence,0.1
+adverse health effects,cigar smokers,1
+smoke free laws,smokeless tobacco,0.7
+tobacco industry,smoking restrictions,0.9
+tobacco smoke,bars and restaurants,0.5
+lung cancer,rates of smoking,0.6
+smoke free,nicotinic acetylcholine receptors,0.2
+smoking bans,anti smoking movement,1
+adverse health effects,smoke free workplaces,0.5
+smoke free laws,american tobacco,0.5
+tobacco smoke,cigar smoking,0.9
+health care costs,tobacco consumption,0.7
+tobacco products,anti smoking movement,0.9
+types of tobacco,advertising and promotion,0
+tobacco companies,formal statistical evidence,0.1
+tobacco industry,pubs and clubs,0
+anti smoking,tobacco consumption,0.9
+anti smoking,public places,0.6
+tobacco control,smoking restrictions,1
+tobacco companies,advertising and promotion,0.6
+production of tobacco,cigar smokers,0.8
+smoking bans,type of tobacco,0.5
+anti smoking,type of tobacco,0.6
+tobacco smoke,nicotinic acetylcholine receptors,0.8
+environmental tobacco smoke,anti smoking movement,1
+lung cancer,advertising and promotion,0
+tobacco smoke,smoking rates,0.8
+anti smoking,rates of smoking,0.7
+production of tobacco,tobacco consumption,1
+adverse health effects,smoking restrictions,0.7
+tobacco smoke,tobacco consumption,1
+tobacco control,nicotinic acetylcholine receptors,0.3
+production of tobacco,tobacco product,1
+environmental tobacco smoke,rates of smoking,0.9
+tobacco industry,smoking rates,0.8
+tobacco control,rates of smoking,0.8
+tobacco companies,smoking rates,0.7
+master settlement agreement,light cigarettes,0.1
+smoking bans,tobacco consumption,1
+health care costs,tobacco product,0.3
+environmental tobacco smoke,bars and restaurants,0.5
+lung cancer,smoking restrictions,0.8
+effects of smoking,american tobacco,0.8
+world health organization,tobacco consumption,0.6
+tobacco companies,smoking restrictions,0.9
+health care costs,light cigarettes,0.1
+production of tobacco,pubs and clubs,0
+adverse health effects,tobacco consumption,1
+anti smoking,pubs and clubs,0.3
+human rights,freedom of speech,1
+free speech,freedom of speech,1
+holocaust denial,freedom of speech,0.5
+national security,freedom of speech,0.4
+hate speech,freedom of speech,1
+economic social,freedom of speech,0
+fairness doctrine,freedom of speech,0.8
+supreme court,freedom of speech,0.2
+secret service,freedom of speech,0.2
+holocaust deniers,freedom of speech,0.6
+freedom of speech,freedom of speech,1
+freedom of expression,freedom of speech,1
+index on censorship,freedom of speech,1
+free speech zones,freedom of speech,1
+state secrets privilege,freedom of speech,0.6
+official secrets act,freedom of speech,0.8
+freedom of press,freedom of speech,1
+council of europe,freedom of speech,0.2
+free speech fight,freedom of speech,1
+shouting fire,freedom of speech,0.6
+gas chambers,freedom of speech,0.1
+refused classification,freedom of speech,0.6
+reasonable restrictions,freedom of speech,0.9
+good faith,freedom of speech,0
+classification board,freedom of speech,0.6
+sexually explicit,freedom of speech,0.5
+politically incorrect,freedom of speech,0.5
+coarse language,freedom of speech,0.9
+defamation laws,freedom of speech,1
+canadian human rights,freedom of speech,1
+slander and libel,freedom of speech,0.9
+brandenburg v ohio,freedom of speech,0.9
+global network initiative,freedom of speech,0.7
+banned in australia,freedom of speech,0
+court of appeals,freedom of speech,0.1
+redress of grievances,freedom of speech,0.6
+imminent lawless action,freedom of speech,0.8
+free speech fights,freedom of speech,1
+rights of man,freedom of speech,1
+official secrets act,politically incorrect,0.1
+freedom of speech,good faith,0
+hate speech,brandenburg v ohio,0.8
+free speech,court of appeals,0.1
+state secrets privilege,classification board,0.3
+freedom of expression,global network initiative,0.5
+state secrets privilege,court of appeals,0.1
+free speech fight,free speech fights,1
+secret service,court of appeals,0
+holocaust denial,banned in australia,0.2
+supreme court,slander and libel,0.1
+holocaust denial,brandenburg v ohio,0.1
+freedom of press,brandenburg v ohio,0.5
+index on censorship,canadian human rights,0.1
+secret service,politically incorrect,0
+state secrets privilege,good faith,0
+freedom of press,politically incorrect,0.4
+state secrets privilege,brandenburg v ohio,0.1
+hate speech,defamation laws,0.8
+index on censorship,banned in australia,0
+freedom of expression,good faith,0
+fairness doctrine,reasonable restrictions,0.3
+supreme court,rights of man,0.3
+freedom of press,gas chambers,0
+holocaust denial,reasonable restrictions,0.4
+bill of rights,court of appeals,0.1
+bill of rights,good faith,0
+secret service,rights of man,0
+freedom of speech,court of appeals,0.2
+bill of rights,free speech fights,0.8
+free speech,slander and libel,1
+bill of rights,slander and libel,0.4
+freedom of speech,redress of grievances,0.4
+freedom of press,redress of grievances,0.1
+freedom of expression,classification board,0.5
+freedom of press,banned in australia,0
+holocaust deniers,banned in australia,0.3
+supreme court,classification board,0
+economic social,classification board,0
+national security,imminent lawless action,0.4
+national security,court of appeals,0.1
+common law,previous convictions,0.5
+jury trials,previous convictions,0.7
+civil law,previous convictions,0.6
+jury trial,previous convictions,0.6
+criminal law,previous convictions,0.9
+legal system,previous convictions,0.8
+scots law,previous convictions,0
+civil cases,previous convictions,0.5
+criminal cases,previous convictions,0.8
+double jeopardy,previous convictions,0.6
+rule of law,previous convictions,0.3
+trial by jury,previous convictions,0.6
+court of appeal,previous convictions,0.6
+england and wales,previous convictions,0
+miscarriage of justice,previous convictions,0.7
+criminal justice act,previous convictions,0.4
+english common law,previous convictions,0.3
+presumption of innocence,previous convictions,0.7
+civil and criminal,previous convictions,0.6
+criminal history category,previous convictions,0.8
+scottish parliament,previous convictions,0
+prospective jurors,previous convictions,0.3
+criminal history,previous convictions,1
+stare decisis,previous convictions,0.6
+criminal case,previous convictions,0.8
+jury tampering,previous convictions,0.3
+legal profession,previous convictions,0.3
+criminal trials,previous convictions,0.8
+mens rea,previous convictions,0.5
+civil procedure,previous convictions,0.5
+civil law systems,previous convictions,0.5
+american law institute,previous convictions,0.4
+common law systems,previous convictions,0.5
+criminal and civil,previous convictions,0.6
+fair trial rights,previous convictions,0.7
+court was established,previous convictions,0.3
+rules of evidence,previous convictions,0.6
+common law jurisdictions,previous convictions,0.4
+bad character evidence,previous convictions,0.9
+acts of union,previous convictions,0
+double jeopardy,american law institute,0.5
+common law,scottish parliament,0.1
+legal system,criminal and civil,0.9
+court of appeal,court was established,0.3
+civil law,prospective jurors,0.4
+presumption of innocence,fair trial rights,1
+jury trials,common law jurisdictions,0.5
+criminal law,rules of evidence,0.8
+criminal cases,jury tampering,0.6
+england and wales,court was established,0.1
+criminal justice act,criminal history,0.7
+scots law,acts of union,0.1
+civil and criminal,civil law systems,0.9
+jury trial,common law systems,0.8
+criminal justice act,common law jurisdictions,0.4
+rule of law,bad character evidence,0.3
+civil and criminal,fair trial rights,0.7
+criminal law,criminal and civil,0.9
+common law,criminal history,0.5
+legal system,criminal case,0.9
+criminal justice act,criminal trials,1
+civil and criminal,criminal trials,1
+trial by jury,civil procedure,0.9
+scots law,civil law systems,0.8
+jury trial,criminal trials,1
+english common law,bad character evidence,0.5
+common law,jury tampering,0.4
+criminal history category,stare decisis,0.4
+criminal cases,rules of evidence,0.7
+rule of law,legal profession,0.5
+england and wales,criminal and civil,0
+jury trials,court was established,0.4
+criminal justice act,mens rea,0.6
+scots law,scottish parliament,0.8
+jury trial,civil procedure,0.9
+scots law,american law institute,0.1
+criminal cases,criminal and civil,0.8
+presumption of innocence,criminal case,1
+english common law,civil procedure,0.7
+jury trials,criminal and civil,0.8
+scots law,mens rea,0.3
+presumption of innocence,court was established,0.3
+rule of law,mens rea,0.5
+civil law,common law systems,1
+presumption of innocence,legal profession,0.4
+civil and criminal,prospective jurors,0.5
+rule of law,civil law systems,1
+trial by jury,jury tampering,1
+court of appeal,scottish parliament,0.1
+scots law,common law jurisdictions,0.7
+presumption of innocence,prospective jurors,0.2
+england and wales,jury tampering,0.1
+civil and criminal,legal profession,0.7
+rule of law,criminal and civil,0.7
+england and wales,stare decisis,0
+common law,common law jurisdictions,1
+scots law,fair trial rights,0.4
+rule of law,common law jurisdictions,0.7
+civil law,civil procedure,1
+double jeopardy,criminal and civil,0.5
+miscarriage of justice,court was established,0.2
+miscarriage of justice,criminal and civil,0.4
+scots law,stare decisis,0.3
+trial by jury,american law institute,0.4
+common law,acts of union,0.2
+criminal cases,acts of union,0
+criminal cases,common law systems,0.9
+civil and criminal,american law institute,0.8
+legal system,court was established,0.4
+unemployment rate,american jobs act,1
+jobs lost,american jobs act,1
+tax rate,american jobs act,0.3
+unemployment insurance,american jobs act,0.5
+moral hazard,american jobs act,0
+income tax,american jobs act,0.3
+unemployment benefits,american jobs act,0.7
+jobs created,american jobs act,1
+capital gains,american jobs act,0.1
+trillion submitted,american jobs act,0
+marginal income tax,american jobs act,0.2
+bush tax cuts,american jobs act,0.1
+american jobs act,american jobs act,1
+congressional budget office,american jobs act,0.1
+medicare and medicaid,american jobs act,0.2
+term capital gains,american jobs act,0.3
+canadian unemployment rate,american jobs act,0.5
+income tax brackets,american jobs act,0.3
+alternative minimum tax,american jobs act,0.2
+capital gains taxes,american jobs act,0.2
+deficit reduction,american jobs act,0.3
+tax policy,american jobs act,0.2
+discretionary spending,american jobs act,0.3
+great depression,american jobs act,0.4
+million jobs,american jobs act,0.8
+u.s economy,american jobs act,0.9
+federal government,american jobs act,0.5
+labour market,american jobs act,0.9
+great recession,american jobs act,0.8
+tax revenues,american jobs act,0.3
+billion to subsidize,american jobs act,0.1
+tax reform act,american jobs act,0.4
+social security medicare,american jobs act,0.2
+economic policy institute,american jobs act,0.2
+reduce future deficits,american jobs act,0.5
+official unemployment rate,american jobs act,0.9
+median household income,american jobs act,0.3
+subprime mortgage crisis,american jobs act,0.2
+australian unemployment rate,american jobs act,0.3
+individual income tax,american jobs act,0.3
+medicare and medicaid,official unemployment rate,0.1
+tax rate,great recession,0.3
+capital gains taxes,median household income,0.3
+congressional budget office,official unemployment rate,0.1
+unemployment benefits,tax revenues,0.4
+term capital gains,reduce future deficits,0.4
+jobs lost,tax reform act,0.1
+unemployment insurance,billion to subsidize,0.2
+alternative minimum tax,reduce future deficits,0.4
+tax rate,discretionary spending,0.2
+unemployment benefits,subprime mortgage crisis,0.2
+canadian unemployment rate,reduce future deficits,0
+marginal income tax,tax policy,1
+capital gains,billion to subsidize,0.3
+unemployment rate,great recession,0.8
+jobs lost,reduce future deficits,0.3
+jobs created,reduce future deficits,0.3
+marginal income tax,federal government,0.5
+medicare and medicaid,economic policy institute,0.3
+income tax,median household income,0.8
+canadian unemployment rate,subprime mortgage crisis,0.3
+marginal income tax,australian unemployment rate,0.2
+jobs lost,great recession,0.9
+unemployment benefits,individual income tax,0.3
+income tax,economic policy institute,0.5
+unemployment rate,economic policy institute,0.4
+unemployment insurance,australian unemployment rate,0.4
+charter schools,voucher scheme,0.7
+public schools,voucher scheme,0.9
+private schools,voucher scheme,0.8
+public school,voucher scheme,0.9
+charter school,voucher scheme,0.7
+school choice,voucher scheme,0.9
+school districts,voucher scheme,0.5
+stanley plan,voucher scheme,0.4
+john mccain,voucher scheme,0
+traditional public schools,voucher scheme,0.8
+public school system,voucher scheme,0.9
+pupil assignment plan,voucher scheme,0.7
+racial achievement gap,voucher scheme,0.3
+local school districts,voucher scheme,0.6
+department of education,voucher scheme,0.8
+pupil assignment board,voucher scheme,0.4
+prince edward county,voucher scheme,0.5
+board of education,voucher scheme,0.6
+charter school students,voucher scheme,0.8
+higher education,voucher scheme,0.3
+school vouchers,voucher scheme,1
+primary school,voucher scheme,0.7
+state schools,voucher scheme,0.9
+school system,voucher scheme,0.9
+public education,voucher scheme,0.9
+tax credits,voucher scheme,0.4
+voucher system,voucher scheme,1
+school board,voucher scheme,0.6
+private education,voucher scheme,0.9
+college or university,voucher scheme,0.4
+reading and math,voucher scheme,0.2
+childcare voucher scheme,voucher scheme,1
+local public schools,voucher scheme,0.8
+usa patriot act,voucher scheme,0.1
+charter school law,voucher scheme,0.5
+public school students,voucher scheme,0.9
+local school district,voucher scheme,0.6
+number of students,voucher scheme,0.4
+free to choose,voucher scheme,0.6
+john mccain,number of students,0.1
+local school districts,higher education,0.4
+valign top,childcare voucher scheme,0
+charter school students,tax credits,0.2
+local school districts,childcare voucher scheme,0.4
+pupil assignment plan,higher education,0.2
+prince edward county,college or university,0.1
+stanley plan,state schools,0.7
+traditional public schools,tax credits,0.2
+stanley plan,local school district,0.5
+public school system,local public schools,1
+john mccain,free to choose,0
+pupil assignment board,state schools,0.6
+private schools,reading and math,0.4
+public school system,higher education,0.4
+charter school,number of students,0.4
+public schools,school vouchers,0.9
+public school,local school district,1
+john mccain,local public schools,0
+pupil assignment board,tax credits,0
+public schools,primary school,1
+school districts,tax credits,0
+prince edward county,tax credits,0
+john mccain,school vouchers,0
+pupil assignment plan,private education,0.7
+john mccain,school board,0.1
+public schools,local public schools,1
+charter school students,higher education,0.2
+prince edward county,local public schools,0.2
+valign top,charter school law,0.1
+traditional public schools,local school district,0.7
+pupil assignment plan,local public schools,0.7
+charter school,public school students,0.9
+charter school,voucher system,0.8
+department of education,childcare voucher scheme,0.7
+charter schools,private education,0.9
+private schools,school system,1
+pupil assignment board,primary school,0.7
+pupil assignment board,voucher system,0.6
+board of education,charter school law,0.6
+prince edward county,free to choose,0
+board of education,childcare voucher scheme,0.4
+copeland lowery,congressional earmarks,0.6
+tax cuts,congressional earmarks,0.3
+appropriations committee,congressional earmarks,0.7
+pork barrel,congressional earmarks,0.8
+federal government,congressional earmarks,0.5
+u.s senate,congressional earmarks,0.8
+direct lobbying,congressional earmarks,0.4
+related agencies,congressional earmarks,0
+health care,congressional earmarks,0
+government spending,congressional earmarks,1
+members of congress,congressional earmarks,0.9
+buchanan and tullock,congressional earmarks,0.4
+house of representatives,congressional earmarks,0.7
+house and senate,congressional earmarks,0.6
+pork barrel spending,congressional earmarks,0.9
+house appropriations committee,congressional earmarks,0.7
+gravina island bridge,congressional earmarks,0.5
+congressional budget office,congressional earmarks,0.9
+bush tax cuts,congressional earmarks,0.1
+political action committee,congressional earmarks,0.4
+running mate,congressional earmarks,0.1
+federal reserve,congressional earmarks,0.5
+executive branch,congressional earmarks,0.2
+income tax,congressional earmarks,0.2
+discretionary spending,congressional earmarks,0.9
+steve chabot,congressional earmarks,0.5
+san bernardino,congressional earmarks,0.1
+revolving door,congressional earmarks,0.3
+republican primary,congressional earmarks,0.2
+capitol hill,congressional earmarks,0.3
+state of alaska,congressional earmarks,0
+medicare and medicaid,congressional earmarks,0.1
+defense appropriations subcommittee,congressional earmarks,0.3
+houses of congress,congressional earmarks,0.9
+senators and representatives,congressional earmarks,0.7
+economist paul krugman,congressional earmarks,0.2
+governor of alaska,congressional earmarks,0.2
+city of redlands,congressional earmarks,0.1
+income tax revenues,congressional earmarks,0.4
+tea party movement,congressional earmarks,0.2
+federal government,steve chabot,0.5
+gravina island bridge,federal reserve,0.1
+government spending,tea party movement,0.9
+buchanan and tullock,defense appropriations subcommittee,0.1
+health care,income tax,0.1
+political action committee,capitol hill,0.2
+tax cuts,republican primary,0
+direct lobbying,income tax,0.1
+house and senate,republican primary,0.4
+appropriations committee,discretionary spending,0.6
+bush tax cuts,san bernardino,0.1
+pork barrel spending,republican primary,0.4
+members of congress,executive branch,0.5
+political action committee,running mate,0.2
+gravina island bridge,senators and representatives,0.1
+house of representatives,income tax,0.1
+direct lobbying,income tax revenues,0.1
+house and senate,city of redlands,0.1
+political action committee,houses of congress,0.4
+political action committee,republican primary,0.4
+house of representatives,san bernardino,0.1
+members of congress,federal reserve,0.1
+buchanan and tullock,san bernardino,0.1
+related agencies,state of alaska,0
+federal government,houses of congress,0.7
+bush tax cuts,republican primary,0.1
+federal government,tea party movement,0.4
+congressional budget office,governor of alaska,0.1
+bill of rights,freedom of speech,1
+smoking bans,cigar smokers,1
+types of tobacco,growing of tobacco,1
+open primary,open primaries,1
+human rights,rights of man,1
+wikileaks documents,military documents,1
+nuclear weapons,nuclear weapons,1
+nuclear weapon,nuclear weapons,1
+nuclear power,nuclear weapons,0.9
+north korea,nuclear weapons,0.5
+anti nuclear,nuclear weapons,1
+soviet union,nuclear weapons,0.4
+nuclear war,nuclear weapons,1
+cold war,nuclear weapons,0.7
+atomic bomb,nuclear weapons,1
+nuclear disarmament,nuclear weapons,1
+nuclear weapons program,nuclear weapons,1
+nuclear weapon states,nuclear weapons,1
+hiroshima and nagasaki,nuclear weapons,0.8
+nuclear weapons states,nuclear weapons,1
+nuclear power plant,nuclear weapons,0.9
+teller ulam design,nuclear weapons,0.9
+test ban treaty,nuclear weapons,1
+anti nuclear groups,nuclear weapons,1
+tactical nuclear weapons,nuclear weapons,1
+nevada test site,nuclear weapons,1
+nuclear explosion,nuclear weapons,1
+fusion fuel,nuclear weapons,1
+united states,nuclear weapons,0.3
+fat man,nuclear weapons,0.8
+nuclear tests,nuclear weapons,1
+nuclear bomb,nuclear weapons,1
+nuclear testing,nuclear weapons,1
+north korea's,nuclear weapons,0.7
+nuclear material,nuclear weapons,1
+uranium enrichment,nuclear weapons,1
+developing nuclear weapons,nuclear weapons,1
+national intelligence estimate,nuclear weapons,0.4
+north korean nuclear,nuclear weapons,0.9
+kilotons of tnt,nuclear weapons,0.9
+nuclear weapon design,nuclear weapons,1
+nuclear explosive devices,nuclear weapons,1
+nuclear weapons tests,nuclear weapons,1
+fission chain reaction,nuclear weapons,1
+iran's nuclear program,nuclear weapons,1
+anti ballistic missile,nuclear weapons,0.9
+nuclear weapons,nuclear weapons tests,1
+test ban treaty,united states,1
+test ban treaty,north korean nuclear,0.3
+cold war,united states,1
+teller ulam design,north korea's,0
+nuclear weapon states,nuclear testing,0.8
+atomic bomb,uranium enrichment,1
+nuclear weapons,national intelligence estimate,0.5
+nevada test site,north korean nuclear,0
+nuclear war,national intelligence estimate,0.5
+nuclear disarmament,nuclear tests,0.5
+nuclear weapons states,nuclear explosion,0.7
+anti nuclear groups,developing nuclear weapons,0.9
+nuclear disarmament,fission chain reaction,0.1
+nuclear weapon states,nuclear weapon design,0.5
+anti nuclear,nuclear bomb,1
+nuclear weapon states,fusion fuel,0.3
+hiroshima and nagasaki,nuclear weapons tests,0.3
+north korea,fission chain reaction,0.1
+atomic bomb,kilotons of tnt,0.9
+nevada test site,north korea's,0
+nuclear weapons states,kilotons of tnt,0.1
+nuclear disarmament,nuclear weapons tests,0.5
+nuclear weapon states,iran's nuclear program,0.9
+nevada test site,fusion fuel,0.4
+tactical nuclear weapons,national intelligence estimate,0.4
+atomic bomb,national intelligence estimate,0.5
+tactical nuclear weapons,united states,0.4
+nuclear disarmament,developing nuclear weapons,0.7
+nevada test site,nuclear testing,1
+nevada test site,fission chain reaction,0.1
+test ban treaty,nuclear explosive devices,0.8
+anti nuclear,anti ballistic missile,0.3
+anti nuclear,uranium enrichment,0.3
+nuclear power,national intelligence estimate,0.5
+nuclear weapons program,nuclear explosion,0.8
+anti nuclear groups,nuclear material,0.3
+hiroshima and nagasaki,fission chain reaction,0.2
+cold war,anti ballistic missile,0.2
+nuclear weapons program,north korean nuclear,0.9
+nuclear weapons program,anti ballistic missile,0.3
+test ban treaty,nuclear bomb,1
+anti nuclear,fat man,0.2
+nuclear weapon,developing nuclear weapons,1
+nuclear war,nuclear material,0.7
+nuclear weapons program,nuclear bomb,1
+tactical nuclear weapons,nuclear tests,0.7
+nuclear power,nuclear explosive devices,0.8
+cold war,kilotons of tnt,0
+north korea,developing nuclear weapons,0.9
+trade unions,collective bargaining rights,1
+trade unions,trades unions,1
+collective bargaining,collective bargaining rights,1
+collective bargaining,trades unions,0.8
+trade union,collective bargaining rights,1
+trade union,trades unions,1
+industrial unionism,collective bargaining rights,1
+industrial unionism,trades unions,1
+international labour,collective bargaining rights,0.4
+international labour,trades unions,0.4
+craft unions,collective bargaining rights,0.9
+craft unions,trades unions,1
+industrial union,collective bargaining rights,0.9
+industrial union,trades unions,0.9
+child labour,collective bargaining rights,0.1
+child labour,trades unions,0.1
+union members,collective bargaining rights,0.7
+union members,trades unions,1
+craft unionism,collective bargaining rights,0.7
+craft unionism,trades unions,1
+freedom of association,collective bargaining rights,0.8
+freedom of association,trades unions,1
+knights of labor,collective bargaining rights,0.7
+knights of labor,trades unions,0.7
+join a union,collective bargaining rights,0.5
+join a union,trades unions,0.9
+international labour conference,collective bargaining rights,0.6
+international labour conference,trades unions,0.9
+congress of industrial,collective bargaining rights,0.1
+congress of industrial,trades unions,0.5
+group of workers,collective bargaining rights,0.8
+group of workers,trades unions,0.8
+trade union members,collective bargaining rights,0.9
+trade union members,trades unions,1
+revolutionary industrial unionism,collective bargaining rights,0.6
+revolutionary industrial unionism,trades unions,0.9
+international labour standards,collective bargaining rights,0.5
+international labour standards,trades unions,0.7
+public employee unions,collective bargaining rights,0.7
+public employee unions,trades unions,0.8
+craft union,collective bargaining rights,0.8
+craft union,trades unions,1
+industrial organizations,collective bargaining rights,0.4
+industrial organizations,trades unions,0.8
+skilled workers,collective bargaining rights,0.3
+skilled workers,trades unions,0.7
+union density,collective bargaining rights,0.4
+union density,trades unions,1
+higher wages,collective bargaining rights,0.9
+higher wages,trades unions,0.9
+unskilled workers,collective bargaining rights,0.2
+unskilled workers,trades unions,0.3
+decent work,collective bargaining rights,0.5
+decent work,trades unions,0.7
+labour relations,collective bargaining rights,0.4
+labour relations,trades unions,0.7
+american labor,collective bargaining rights,0.2
+american labor,trades unions,0.7
+union movement,collective bargaining rights,0.8
+union movement,trades unions,1
+anglo saxon system,collective bargaining rights,0.2
+anglo saxon system,trades unions,0.2
+human rights held,collective bargaining rights,0.7
+human rights held,trades unions,0.4
+league of nations,collective bargaining rights,0.1
+league of nations,trades unions,0.1
+skilled and unskilled,collective bargaining rights,0.1
+skilled and unskilled,trades unions,0.4
+rank and file,collective bargaining rights,0.4
+rank and file,trades unions,0.4
+employers and workers,collective bargaining rights,0.7
+employers and workers,trades unions,0.9
+terms and conditions,collective bargaining rights,0.9
+terms and conditions,trades unions,0.5
+international labour office,collective bargaining rights,0.3
+international labour office,trades unions,0.3
+craft unionism,human rights held,0.3
+revolutionary industrial unionism,human rights held,0.4
+child labour,international labour office,0.7
+join a union,league of nations,0
+craft unions,american labor,0.7
+industrial unionism,craft union,1
+trade union,craft union,0.9
+freedom of association,higher wages,0.2
+trade union members,terms and conditions,0.3
+international labour conference,anglo saxon system,0.1
+join a union,craft union,0.8
+public employee unions,international labour office,0.2
+trade unions,terms and conditions,0.6
+public employee unions,rank and file,0.5
+collective bargaining,employers and workers,0.9
+child labour,unskilled workers,0.7
+freedom of association,anglo saxon system,0.4
+knights of labor,terms and conditions,0.3
+craft unions,human rights held,0.3
+trade unions,league of nations,0
+child labour,skilled and unskilled,0.1
+craft unionism,international labour office,0.3
+trade union members,labour relations,0.6
+trade union,industrial organizations,0.7
+industrial unionism,unskilled workers,0.3
+international labour standards,rank and file,0.1
+child labour,anglo saxon system,0
+public employee unions,craft union,0.8
+craft unions,skilled workers,0.7
+child labour,terms and conditions,0.2
+congress of industrial,labour relations,0.2
+group of workers,skilled workers,0.7
+public employee unions,industrial organizations,0.7
+craft unionism,terms and conditions,0.4
+trade unions,rank and file,0.4
+congress of industrial,anglo saxon system,0
+join a union,unskilled workers,0.3
+freedom of association,industrial organizations,0.6
+trade unions,skilled and unskilled,0.3
+trade union,labour relations,0.7
+trade union,human rights held,0.3
+craft unionism,industrial organizations,0.5
+collective bargaining,international labour office,0.3
+child labour,american labor,0.5
+congress of industrial,employers and workers,0.1
+collective bargaining,labour relations,1
+collective bargaining,league of nations,0
+join a union,labour relations,0.6
+revolutionary industrial unionism,rank and file,0.5
+trade union,union movement,0.9
+trade union,terms and conditions,0.8
+craft unions,higher wages,0.6
+pro life,partial birth abortions,0.9
+pro choice,partial birth abortions,0.9
+abortion rights,partial birth abortions,0.9
+supreme court,partial birth abortions,0.2
+late term,partial birth abortions,0.8
+fetal pain,partial birth abortions,0.7
+legalized abortion,partial birth abortions,1
+undue burden,partial birth abortions,0.2
+legal abortion,partial birth abortions,0.9
+pregnant woman,partial birth abortions,0.9
+roe v wade,partial birth abortions,0.7
+partial birth abortion,partial birth abortions,1
+late term abortions,partial birth abortions,1
+gonzales v carhart,partial birth abortions,0.8
+donohue and levitt,partial birth abortions,0.6
+stenberg v carhart,partial birth abortions,0.8
+post abortion syndrome,partial birth abortions,1
+doe v bolton,partial birth abortions,0.7
+pro life advocates,partial birth abortions,1
+believed that abortion,partial birth abortions,0.5
+roe decision,partial birth abortions,0.8
+royal college,partial birth abortions,0
+woman's health,partial birth abortions,0.8
+banning abortion,partial birth abortions,1
+guttmacher institute,partial birth abortions,0.6
+nebraska law,partial birth abortions,0.4
+trimester abortion,partial birth abortions,0.9
+woman didn't,partial birth abortions,0.1
+support abortion,partial birth abortions,0.9
+induced abortion,partial birth abortions,1
+issue of abortion,partial birth abortions,0.9
+u.s supreme court,partial birth abortions,0.3
+pro life movement,partial birth abortions,1
+availability of abortion,partial birth abortions,0.7
+pro choice movement,partial birth abortions,1
+partial birth abortions,partial birth abortions,1
+pro life supporters,partial birth abortions,1
+restrictions on abortion,partial birth abortions,1
+rape or incest,partial birth abortions,0.2
+abortion is morally,partial birth abortions,0.7
+gonzales v carhart,royal college,0.1
+late term abortions,woman didn't,0.1
+pro life advocates,pro life supporters,1
+late term abortions,abortion is morally,0.6
+believed that abortion,pro life supporters,0.5
+pro life advocates,trimester abortion,0.7
+legalized abortion,roe decision,0.9
+undue burden,abortion is morally,0.3
+fetal pain,availability of abortion,0.3
+pregnant woman,guttmacher institute,0.6
+legal abortion,royal college,0
+legal abortion,rape or incest,0.6
+supreme court,roe decision,0.9
+supreme court,restrictions on abortion,0.9
+donohue and levitt,support abortion,0.7
+late term,roe decision,0.1
+undue burden,restrictions on abortion,0.5
+late term,royal college,0.1
+believed that abortion,induced abortion,0.5
+donohue and levitt,nebraska law,0.1
+supreme court,woman didn't,0
+late term,support abortion,0.2
+doe v bolton,banning abortion,0.8
+post abortion syndrome,roe decision,0
+donohue and levitt,woman didn't,0
+legalized abortion,induced abortion,1
+legalized abortion,support abortion,0.9
+summer vacation,year round schooling,1
+summer holidays,year round schooling,1
+school year,year round schooling,1
+school holidays,year round schooling,0.8
+early september,year round schooling,0.1
+school programs,year round schooling,0.9
+classical education,year round schooling,0.7
+year round,year round schooling,1
+early july,year round schooling,0.3
+mid june,year round schooling,0.2
+summer vacation starts,year round schooling,0.7
+summer holidays start,year round schooling,0.7
+summer vacation lasts,year round schooling,0.7
+week of september,year round schooling,0
+week of june,year round schooling,0
+end of june,year round schooling,0.3
+summer learning loss,year round schooling,1
+beans and rice,year round schooling,0
+march or april,year round schooling,0.1
+attend year round,year round schooling,1
+late july,year round schooling,0.3
+half term,year round schooling,0.3
+school activities,year round schooling,0.4
+break lasts,year round schooling,0.5
+high school,year round schooling,0.8
+easter holidays,year round schooling,0.3
+labor day,year round schooling,0
+single track,year round schooling,0.2
+christmas holiday,year round schooling,0.4
+mid september,year round schooling,0
+christmas and easter,year round schooling,0.4
+returning to school,year round schooling,0.7
+week in september,year round schooling,0
+july and august,year round schooling,0.4
+week of march,year round schooling,0
+end of october,year round schooling,0
+classical education,school activities,0.8
+summer holidays,break lasts,0.6
+summer vacation,half term,0.4
+early september,break lasts,0.4
+summer vacation starts,end of october,0
+summer learning loss,school activities,0.4
+summer holidays start,end of october,0
+summer holidays start,july and august,0.8
+summer vacation lasts,school activities,0
+attend year round,week in september,0
+end of june,returning to school,0.1
+school programs,easter holidays,0
+end of june,late july,0.3
+early july,mid september,0.2
+week of september,returning to school,0.3
+beans and rice,single track,0
+week of june,half term,0
+mid june,easter holidays,0
+early july,week of march,0
+early july,half term,0.1
+mid june,week in september,0
+summer vacation,returning to school,0.9
+march or april,single track,0
+school holidays,late july,0.4
+summer vacation lasts,half term,0.1
+summer learning loss,christmas holiday,0.1
+early july,easter holidays,0
+economic inequality,poor communities,1
+safety nets,poor communities,0.7
+poverty reduction,poor communities,1
+income inequality,poor communities,1
+world bank,poor communities,0.1
+economic growth,poor communities,0.2
+foreign aid,poor communities,0.7
+developing countries,poor communities,1
+reducing poverty,poor communities,1
+poor countries,poor communities,1
+cycle of poverty,poor communities,1
+safety net programs,poor communities,0.9
+culture of poverty,poor communities,1
+redistribution of wealth,poor communities,0.9
+effect of inequality,poor communities,0.9
+subsidies for fertilizer,poor communities,0.3
+distribution of income,poor communities,1
+health and education,poor communities,0.4
+low income countries,poor communities,0.9
+poverty reduction measures,poor communities,1
+donor countries,poor communities,0.2
+poor nations,poor communities,1
+aid organizations,poor communities,0.9
+poor children,poor communities,1
+food aid,poor communities,0.9
+fee waivers,poor communities,0.5
+debt relief,poor communities,0.9
+development aid,poor communities,0.9
+welfare programs,poor communities,1
+income distribution,poor communities,1
+millennium development goals,poor communities,0.5
+living in poverty,poor communities,1
+china and india,poor communities,0.8
+levels of inequality,poor communities,0.8
+goods and services,poor communities,0.3
+poverty reduction strategy,poor communities,1
+care and education,poor communities,0.5
+safety nets,care and education,0.5
+subsidies for fertilizer,fee waivers,0
+health and education,levels of inequality,0.2
+foreign aid,poverty reduction strategy,0.8
+economic growth,poor children,0.1
+world bank,china and india,0.1
+effect of inequality,donor countries,0.1
+poverty reduction measures,poor children,0.9
+world bank,millennium development goals,0.6
+safety net programs,welfare programs,0.9
+redistribution of wealth,china and india,0.2
+subsidies for fertilizer,income distribution,0.1
+subsidies for fertilizer,millennium development goals,0
+effect of inequality,debt relief,0.1
+reducing poverty,millennium development goals,0.9
+foreign aid,development aid,1
+cycle of poverty,living in poverty,1
+income inequality,income distribution,0.9
+poverty reduction,welfare programs,1
+foreign aid,welfare programs,0.7
+effect of inequality,income distribution,0.8
+economic inequality,development aid,0.5
+cycle of poverty,poor children,1
+reducing poverty,debt relief,0.9
+developing countries,fee waivers,0.2
+culture of poverty,millennium development goals,0.1
+poverty reduction measures,aid organizations,0.8
+effect of inequality,development aid,0.1
+poor countries,goods and services,0.1
+health and education,living in poverty,0.3
+safety net programs,living in poverty,0.7
+redistribution of wealth,millennium development goals,0.5
+health and education,china and india,0
+culture of poverty,poor nations,1
+safety nets,fee waivers,0.4
+low income countries,food aid,0.7
+poverty reduction,millennium development goals,0.9
+redistribution of wealth,goods and services,0.3
+income inequality,development aid,0.2
+distribution of income,welfare programs,0.6
+economic growth,millennium development goals,0.6
+world bank,poor nations,0.3
+reducing poverty,fee waivers,0.5
+foreign aid,poor nations,1
+low income countries,millennium development goals,0.4
+income inequality,china and india,0.2
+income inequality,debt relief,0.4
+distribution of income,goods and services,0.2
+effect of inequality,poor nations,0.5
+subsidies for fertilizer,poor children,0
+cycle of poverty,fee waivers,0.1
+economic growth,aid organizations,0.2
+culture of poverty,china and india,0.4
+cycle of poverty,development aid,0.5
+economic inequality,goods and services,0.3
+drug cartels,united states,0.1
+drug cartels,drugs war,1
+project gunrunner,united states,0.9
+project gunrunner,drugs war,0.8
+law enforcement,united states,0.2
+law enforcement,drugs war,0.7
+atf agents,united states,0.9
+atf agents,drugs war,0.8
+mexican government,united states,0.1
+mexican government,drugs war,0.8
+m??rida initiative,united states,0.7
+m??rida initiative,drugs war,0.7
+drug trafficking,united states,0.7
+drug trafficking,drugs war,1
+drug traffickers,united states,0.7
+drug traffickers,drugs war,1
+sinaloa cartel,united states,0.5
+sinaloa cartel,drugs war,0.9
+mexican cartels,united states,0.4
+mexican cartels,drugs war,0.9
+fast and furious,united states,0.8
+fast and furious,drugs war,0.6
+war on drugs,united states,1
+war on drugs,drugs war,1
+mexican drug cartels,united states,0.5
+mexican drug cartels,drugs war,1
+central american countries,united states,0.5
+central american countries,drugs war,0.6
+u.s state department,united states,1
+u.s state department,drugs war,0.4
+agent brian terry,united states,0.9
+agent brian terry,drugs war,0.6
+los zetas cartel,united states,0.4
+los zetas cartel,drugs war,0.9
+mexican law enforcement,united states,0
+mexican law enforcement,drugs war,0.9
+attorney general holder,united states,0.6
+attorney general holder,drugs war,0.5
+local law enforcement,united states,0.1
+local law enforcement,drugs war,0.3
+drug trade,united states,0.3
+drug trade,drugs war,1
+police forces,united states,0.2
+police forces,drugs war,0.9
+drug control,united states,0.5
+drug control,drugs war,1
+attorney general,united states,0.2
+attorney general,drugs war,0.1
+federal police,united states,0.4
+federal police,drugs war,0.8
+plan colombia,united states,0.9
+plan colombia,drugs war,0.9
+wide receiver,united states,0.8
+wide receiver,drugs war,0.6
+la familia,united states,0.2
+la familia,drugs war,0.8
+central america,united states,0.4
+central america,drugs war,0.7
+president felipe calder??n,united states,0
+president felipe calder??n,drugs war,0.6
+law enforcement efforts,united states,0.1
+law enforcement efforts,drugs war,0.8
+drug enforcement administration,united states,0.8
+drug enforcement administration,drugs war,1
+training and equipment,united states,0
+training and equipment,drugs war,0.1
+drug trafficking organizations,united states,0.5
+drug trafficking organizations,drugs war,1
+district of arizona,united states,0.7
+district of arizona,drugs war,0.3
+law enforcement officials,united states,0.2
+law enforcement officials,drugs war,0.6
+federal and local,united states,0.2
+federal and local,drugs war,0.1
+bureau of narcotics,united states,0.8
+bureau of narcotics,drugs war,0.9
+early to mid,united states,0
+early to mid,drugs war,0
+mexican law enforcement,training and equipment,0.3
+attorney general holder,drug trafficking organizations,0.2
+los zetas cartel,central america,0.7
+local law enforcement,attorney general,0.3
+los zetas cartel,district of arizona,0.1
+fast and furious,bureau of narcotics,0.2
+drug traffickers,early to mid,0
+mexican drug cartels,central america,0.8
+u.s state department,bureau of narcotics,0.4
+u.s state department,district of arizona,0.4
+drug cartels,drug trade,1
+atf agents,drug enforcement administration,0.6
+agent brian terry,federal and local,0.2
+mexican law enforcement,attorney general,0.1
+central american countries,police forces,0.3
+u.s state department,early to mid,0
+mexican government,president felipe calder??n,0.9
+war on drugs,law enforcement efforts,1
+mexican law enforcement,law enforcement efforts,1
+law enforcement,plan colombia,0.6
+law enforcement,drug control,1
+drug traffickers,wide receiver,0.5
+mexican drug cartels,la familia,1
+attorney general holder,district of arizona,0.2
+central american countries,wide receiver,0.2
+agent brian terry,president felipe calder??n,0
+attorney general holder,law enforcement officials,0.7
+atf agents,drug trafficking organizations,0.6
+u.s state department,central america,0.2
+central american countries,president felipe calder??n,0.5
+sinaloa cartel,drug control,1
+local law enforcement,law enforcement efforts,1
+law enforcement,law enforcement officials,1
+central american countries,drug enforcement administration,0.2
+mexican law enforcement,early to mid,0
+los zetas cartel,drug control,1
+atf agents,drug trade,0.8
+project gunrunner,bureau of narcotics,0.4
+mexican drug cartels,law enforcement efforts,0.7
+attorney general holder,central america,0
+drug cartels,drug trafficking organizations,0.9
+agent brian terry,drug trafficking organizations,0.4
+mexican drug cartels,federal and local,0.1
+u.s state department,drug trafficking organizations,0.3
+u.s state department,drug trade,0.1
+mexican drug cartels,law enforcement officials,0.5
+agent brian terry,bureau of narcotics,0.3
+u.s state department,wide receiver,0.2
+drug trafficking,law enforcement officials,0.5
+drug cartels,attorney general,0.1
+agent brian terry,training and equipment,0
+central american countries,drug trafficking organizations,0.6
+attorney general holder,drug enforcement administration,0.2
+los zetas cartel,plan colombia,0.2
+war on drugs,federal police,0.8
+u.s state department,police forces,0.4
+mexican law enforcement,wide receiver,0.5
+mexican government,law enforcement efforts,0.2
+mexican cartels,drug enforcement administration,0.9
+sinaloa cartel,training and equipment,0
+sinaloa cartel,attorney general,0
+los zetas cartel,drug enforcement administration,0.7
+attorney general holder,plan colombia,0.1
+war on drugs,central america,0.8
+drug cartels,training and equipment,0.1
+drug traffickers,drug trade,1
+local law enforcement,federal police,0.9
+los zetas cartel,training and equipment,0.1
+atf agents,attorney general,0.3
+m??rida initiative,police forces,0.3
+mexican drug cartels,training and equipment,0.2
+drug cartels,la familia,1
+project gunrunner,president felipe calder??n,0.1
+mexican law enforcement,plan colombia,0.1
+local law enforcement,wide receiver,0.1
+war on drugs,drug trafficking organizations,0.8
+mexican cartels,training and equipment,0.2
+war on drugs,attorney general,0.1
+mexican law enforcement,law enforcement officials,0.9
+attorney general holder,attorney general,1
+central american countries,la familia,0.3
+los zetas cartel,president felipe calder??n,0.2
+m??rida initiative,federal police,0.3
+law enforcement,drug trafficking organizations,0.8
+agent brian terry,police forces,0.6
+mexican cartels,plan colombia,0.2
+mexican law enforcement,drug enforcement administration,0.5
+drug traffickers,attorney general,0.1
+nuclear weapons,nuclear weapons,1
+nuclear weapon,nuclear weapons,1
+north korea,nuclear weapons,0.9
+united states,nuclear weapons,0.5
+cold war,nuclear weapons,0.6
+nuclear war,nuclear weapons,1
+nuclear disarmament,nuclear weapons,0.9
+nuclear technology,nuclear weapons,1
+soviet union,nuclear weapons,0.7
+nuclear terrorism,nuclear weapons,1
+nuclear weapon states,nuclear weapons,1
+nuclear weapons states,nuclear weapons,1
+nuclear weapons program,nuclear weapons,1
+india and pakistan,nuclear weapons,0.7
+highly enriched uranium,nuclear weapons,1
+nuclear explosive devices,nuclear weapons,1
+uranium enrichment program,nuclear weapons,1
+mutually assured destruction,nuclear weapons,1
+nuclear weapons programs,nuclear weapons,1
+possibility of nuclear,nuclear weapons,0.7
+nuclear test,nuclear weapons,1
+security council,nuclear weapons,0.4
+heavy water,nuclear weapons,0.9
+defending states,nuclear weapons,0.3
+defending state,nuclear weapons,0.3
+north korean,nuclear weapons,0.8
+nuclear powers,nuclear weapons,1
+atomic energy,nuclear weapons,0.8
+enriched uranium,nuclear weapons,1
+party talks,nuclear weapons,0.2
+nuclear suppliers group,nuclear weapons,1
+policy of deterrence,nuclear weapons,0.9
+developing nuclear weapons,nuclear weapons,1
+george w bush,nuclear weapons,0.1
+nuclear arms race,nuclear weapons,1
+possess nuclear weapons,nuclear weapons,1
+president ronald reagan,nuclear weapons,0.3
+joined the npt,nuclear weapons,0.7
+world war ii,nuclear weapons,0.9
+signed the npt,nuclear weapons,0.5
+nuclear weapons states,possess nuclear weapons,0.9
+nuclear weapons,joined the npt,0.6
+uranium enrichment program,party talks,0.2
+possibility of nuclear,nuclear suppliers group,0.4
+india and pakistan,heavy water,0.2
+mutually assured destruction,joined the npt,0.3
+nuclear war,signed the npt,0.5
+nuclear weapons program,signed the npt,0.8
+nuclear technology,party talks,0
+nuclear weapons states,defending state,0.4
+nuclear weapons program,developing nuclear weapons,0.9
+nuclear explosive devices,security council,0.2
+cold war,heavy water,0
+nuclear disarmament,nuclear arms race,0.8
+possibility of nuclear,president ronald reagan,0.2
+united states,nuclear test,0.3
+india and pakistan,nuclear test,0.3
+north korea,party talks,0.2
+cold war,policy of deterrence,0.8
+mutually assured destruction,george w bush,0
+nuclear weapons,nuclear test,0.9
+soviet union,atomic energy,0.2
+nuclear weapons programs,president ronald reagan,0.4
+united states,atomic energy,0.1
+soviet union,heavy water,0.1
+nuclear weapons program,joined the npt,0.6
+nuclear explosive devices,heavy water,0.6
+nuclear terrorism,world war ii,0.2
+north korea,nuclear test,0.7
+mutually assured destruction,nuclear test,0.1
+india and pakistan,defending states,0
+nuclear war,defending states,0.4
+nuclear weapon,president ronald reagan,0.3
+nuclear weapons states,north korean,0.9
+nuclear weapons program,defending states,0.3
+cold war,world war ii,0.5
+uranium enrichment program,defending state,0.1
+soviet union,party talks,0
+nuclear disarmament,defending state,0.1
+uranium enrichment program,possess nuclear weapons,0.6
+nuclear weapons,party talks,0.2
+nuclear weapons,heavy water,0.8
+highly enriched uranium,policy of deterrence,0.3
+india and pakistan,president ronald reagan,0
+nuclear weapons states,heavy water,0.1
+nuclear weapons,george w bush,0.1
+cold war,nuclear suppliers group,0
+uranium enrichment program,security council,0.1
+nuclear war,joined the npt,0.4
+nuclear weapons states,policy of deterrence,0.9
+nuclear weapon,possess nuclear weapons,1
+united states,heavy water,0.2
+nuclear terrorism,president ronald reagan,0.1
+nuclear terrorism,policy of deterrence,0
+highly enriched uranium,north korean,0.2
+possibility of nuclear,george w bush,0.1
+nuclear war,security council,0.3
+nuclear weapons,president ronald reagan,0.3
+united states,president ronald reagan,0.9
+north korea,world war ii,0.1
+nuclear war,defending state,0.5
+mutually assured destruction,defending state,0.4
+nuclear weapons states,enriched uranium,0.6
+mutually assured destruction,enriched uranium,0.2
+nuclear weapon states,president ronald reagan,0.3
+uranium enrichment program,joined the npt,0.3
+nuclear weapons,nuclear arms race,0.9
+soviet union,president ronald reagan,0.3
+nuclear weapons programs,nuclear suppliers group,0.9
+soviet union,enriched uranium,0.2
+india and pakistan,policy of deterrence,0.3
+soviet union,possess nuclear weapons,0.8
+mutually assured destruction,nuclear suppliers group,0.2
+nuclear weapon,george w bush,0.1
+north korea,nuclear arms race,0.3
+nuclear weapon,joined the npt,0.6
+nuclear weapons programs,joined the npt,0.6
+nuclear weapons programs,party talks,0.1
+mutually assured destruction,heavy water,0
+united states,north korean,0.1
+nuclear war,party talks,0.3
+nuclear disarmament,security council,0.4
+existence of gods,creator god,0.9
+existence of god,evil exists,0.4
+existence of gods,deities exist,0.9
+sam harris,argument from nonbelief,0.5
+god delusion,kosher slaughter,0
+existence or nonexistence,creator god,0.7
+evil and suffering,opposition to god,0.4
+existence of gods,daniel dennett,0.6
+concept of god,daniel dennett,0.6
+argument from design,contests the existence,0.1
+sam harris,richard dawkins foundation,0.5
+metaphysical naturalism,contests the existence,0.3
+cosmological argument,contests the existence,0.2
+cosmological argument,opposition to god,0.5
+belief in god,argument from nonbelief,0.8
+existence of god,critics of religion,0.8
+existence of gods,human knowledge,0.3
+god exists,criticism of religion,0.6
+existence or nonexistence,deities exist,0.7
+concept of god,absence of belief,0.6
+nature of god,contests the existence,0.2
+christopher hitchens,opposition to god,1
+existence of gods,theological noncognitivism,0.8
+metaphysical naturalism,existence and nature,0.8
+older people,mandatory retirement age,0.8
+age discrimination,mandatory retirement age,0.9
+defined benefit,mandatory retirement age,0.2
+age related,mandatory retirement age,0.9
+older adults,mandatory retirement age,0.9
+defined contribution,mandatory retirement age,0.1
+normal aging,mandatory retirement age,0.4
+older generation,mandatory retirement age,0.8
+young adults,mandatory retirement age,0
+retirement plans,mandatory retirement age,0.8
+defined contribution plans,mandatory retirement age,0.3
+defined benefit plan,mandatory retirement age,0.3
+defined benefit plans,mandatory retirement age,0.3
+defined contribution plan,mandatory retirement age,0.3
+effects of aging,mandatory retirement age,0.7
+mild cognitive impairment,mandatory retirement age,0.1
+decline with age,mandatory retirement age,0.7
+theory of ageing,mandatory retirement age,0.5
+years of age,mandatory retirement age,0.5
+defined benefit pension,mandatory retirement age,0.4
+ageing results,mandatory retirement age,0.4
+pension schemes,mandatory retirement age,0.6
+successful ageing,mandatory retirement age,0.4
+motor units,mandatory retirement age,0
+older patients,mandatory retirement age,0.1
+muscle fibers,mandatory retirement age,0
+memory issues,mandatory retirement age,0.3
+memory loss,mandatory retirement age,0.3
+pension scheme,mandatory retirement age,0.6
+younger adults,mandatory retirement age,0
+age related,ageing results,0.8
+effects of aging,successful ageing,0.6
+age related,pension scheme,0.6
+defined contribution plans,successful ageing,0
+defined benefit plan,successful ageing,0.2
+older generation,pension scheme,0.9
+mild cognitive impairment,memory loss,1
+normal aging,pension schemes,0.4
+older people,older patients,0.8
+defined benefit,pension schemes,0.7
+age discrimination,memory issues,0.2
+theory of ageing,motor units,0.1
+young adults,pension scheme,0.1
+years of age,motor units,0.1
+defined contribution plan,ageing results,0
+older generation,younger adults,0.4
+defined contribution plan,motor units,0
+older people,muscle fibers,0.2
+older generation,successful ageing,0.8
+electoral fraud,democratic governments,0.2
+electoral fraud,photo identification,0.6
+electoral fraud,polling station,0.7
+voter fraud,democratic governments,0.3
+voter fraud,photo identification,0.8
+voter fraud,polling station,0.8
+voter registration,democratic governments,0.5
+voter registration,photo identification,0.7
+voter registration,polling station,0.4
+photo id,democratic governments,0.1
+photo id,photo identification,1
+photo id,polling station,0.5
+voter suppression,democratic governments,0.1
+voter suppression,photo identification,0.2
+voter suppression,polling station,0.2
+voting systems,democratic governments,0.7
+voting systems,photo identification,0.3
+voting systems,polling station,0.7
+voting machines,democratic governments,0.1
+voting machines,photo identification,0.3
+voting machines,polling station,0.9
+polling places,democratic governments,0.1
+polling places,photo identification,0.3
+polling places,polling station,1
+voting machine,democratic governments,0.1
+voting machine,photo identification,0.3
+voting machine,polling station,1
+election fraud,democratic governments,0.5
+election fraud,photo identification,0.6
+election fraud,polling station,0.5
+electronic voting machines,democratic governments,0.1
+electronic voting machines,photo identification,0.4
+electronic voting machines,polling station,1
+election assistance commission,democratic governments,0.3
+election assistance commission,photo identification,0.1
+election assistance commission,polling station,0.5
+party or candidate,democratic governments,0.6
+party or candidate,photo identification,0
+party or candidate,polling station,0.1
+principles of democracy,democratic governments,1
+principles of democracy,photo identification,0
+principles of democracy,polling station,0.2
+u.s presidential election,democratic governments,0.7
+u.s presidential election,photo identification,0.1
+u.s presidential election,polling station,0.6
+number of voters,democratic governments,0.3
+number of voters,photo identification,0.1
+number of voters,polling station,0.6
+individuals with disabilities,democratic governments,0
+individuals with disabilities,photo identification,0
+individuals with disabilities,polling station,0.1
+candidate or party,democratic governments,0.7
+candidate or party,photo identification,0
+candidate or party,polling station,0.4
+voting rights act,democratic governments,0.5
+voting rights act,photo identification,0
+voting rights act,polling station,0
+voter intimidation,democratic governments,0.1
+voter intimidation,photo identification,0.2
+voter intimidation,polling station,0.2
+federal elections,democratic governments,0.8
+federal elections,photo identification,0.3
+federal elections,polling station,0.8
+democratic party,democratic governments,1
+democratic party,photo identification,0
+democratic party,polling station,0.1
+phone calls,democratic governments,0
+phone calls,photo identification,0
+phone calls,polling station,0.1
+public housing,democratic governments,0.1
+public housing,photo identification,0
+public housing,polling station,0
+ballot stuffing,democratic governments,0.2
+ballot stuffing,photo identification,0.2
+ballot stuffing,polling station,0.8
+ballot paper,democratic governments,0.1
+ballot paper,photo identification,0.1
+ballot paper,polling station,0.8
+absentee ballots,democratic governments,0.1
+absentee ballots,photo identification,0.1
+absentee ballots,polling station,0.5
+photo identification,democratic governments,0.3
+photo identification,photo identification,1
+photo identification,polling station,0.5
+republican party,democratic governments,0.6
+republican party,photo identification,0
+republican party,polling station,0
+principles of democracy,ballot stuffing,0.5
+electronic voting machines,voter intimidation,0
+u.s presidential election,republican party,0.8
+voter fraud,ballot paper,0.5
+photo id,voter intimidation,0.2
+electronic voting machines,absentee ballots,0.3
+voting machines,ballot stuffing,0.4
+photo id,public housing,0
+voting machine,democratic party,0
+voter registration,republican party,0.2
+number of voters,phone calls,0
+electoral fraud,voter intimidation,0.6
+electoral fraud,absentee ballots,0.4
+voting rights act,ballot paper,0.1
+party or candidate,phone calls,0
+election fraud,federal elections,0.9
+voter fraud,ballot stuffing,0.8
+principles of democracy,absentee ballots,0.1
+voting machine,voter intimidation,0.1
+photo id,republican party,0
+electoral fraud,public housing,0
+voting machine,phone calls,0
+u.s presidential election,ballot stuffing,0.3
+electoral fraud,ballot paper,0.5
+election fraud,absentee ballots,0.5
+voting rights act,absentee ballots,0.1
+voting systems,democratic party,0.1
+voter registration,public housing,0
+party or candidate,federal elections,0.8
+individuals with disabilities,public housing,0
+voting systems,federal elections,0.8
+voter suppression,republican party,0
+voting rights act,republican party,0
+photo id,ballot stuffing,0.1
+voter suppression,photo identification,0.1
+principles of democracy,democratic party,0.4
+u.s presidential election,democratic party,0.8
+principles of democracy,federal elections,0.6
+polling places,voter intimidation,0.1
+number of voters,absentee ballots,0.5
+electronic voting machines,photo identification,0.4
+voting machine,photo identification,0.2
+voting rights act,ballot stuffing,0
+electoral fraud,photo identification,0.8
+u.s presidential election,photo identification,0.2
+election assistance commission,absentee ballots,0.3
+voting rights act,public housing,0
+individuals with disabilities,absentee ballots,0.4
+electoral fraud,democratic party,0
+voting machines,phone calls,0
+party or candidate,ballot stuffing,0
+candidate or party,ballot paper,0.3
+candidate or party,democratic party,0.9
+u.s presidential election,federal elections,0.9
+photo id,federal elections,0.3
+number of voters,republican party,0.2
+polling places,democratic party,0.1
+individuals with disabilities,democratic party,0
+polling places,ballot stuffing,0.5
+photo id,photo identification,1
+voting systems,public housing,0
+election fraud,phone calls,0.1
+election fraud,republican party,0
+photo id,absentee ballots,0.1
+number of voters,federal elections,0.6
+number of voters,ballot stuffing,0.3
+voting rights act,phone calls,0
+voting machines,photo identification,0.2
+voting systems,voter intimidation,0.4
+voting systems,ballot stuffing,0.1
+electronic voting machines,ballot paper,0.5
+voting systems,ballot paper,0.5
+voting rights act,democratic party,0.1
+voter suppression,ballot paper,0
+voter registration,absentee ballots,0.2
+voter registration,federal elections,0.9
+electronic voting machines,federal elections,0.5
+voting rights act,federal elections,0.5
+military service,national service,1
+counter recruitment,national service,0.8
+conscientious objectors,national service,0.8
+alternative service,national service,0.8
+civilian service,national service,0.9
+selective service,national service,0.8
+million men,national service,0.1
+parliamentary democracy,national service,0
+counter recruiters,national service,0.8
+military recruitment,national service,0.9
+selective service system,national service,0.9
+house ethics committee,national service,0
+selective service act,national service,0.9
+adam clayton powell,national service,0.1
+term of service,national service,0.9
+york state assembly,national service,0
+military conscription,national service,1
+draft registration,national service,0.9
+draft dodgers,national service,0.9
+conscientious objection,national service,0.7
+parliamentary republic,national service,0
+military training,national service,1
+young men,national service,0.7
+draft law,national service,1
+rangel center,national service,0.4
+rent stabilized,national service,0.1
+counter recruitment,military conscription,0.7
+selective service act,draft law,0.7
+million men,young men,0.3
+adam clayton powell,draft dodgers,0.1
+selective service system,military training,0.2
+military service,draft law,0.9
+house ethics committee,draft dodgers,0
+conscientious objectors,military training,0.3
+military recruitment,conscientious objection,0.8
+term of service,draft dodgers,0.2
+conscientious objectors,rangel center,0.1
+selective service,draft law,0.6
+term of service,conscientious objection,0.2
+selective service act,young men,0.6
+house ethics committee,young men,0
+alternative service,military conscription,0.7
+civilian service,military training,0.4
+parliamentary democracy,military conscription,0.1
+term of service,draft law,0.5
+counter recruiters,draft dodgers,0.3
+selective service,rent stabilized,0
+selective service act,military conscription,0.9
+military service,conscientious objection,0.7
+alternative service,rangel center,0.2
+world bank,country level,0.2
+paris declaration,civil society organisations,0.4
+paris declaration,combination of goods,0
+goods and services,world trade organization,0.7
+aid effectiveness,international aid,1
+low income countries,financial times,0.1
+world bank,aid organizations,0.2
+middle income countries,quality of life,0.5
+overseas development institute,good governance,0
+developing countries,world trade organization,0.2
+poor countries,quality of life,0.7
+poor countries,good governance,0.3
+low income countries,poverty trap,0.9
+standard of living,economic development,0.7
+development aid,poor nations,0.9
+foreign aid,poverty trap,0.7
+free trade,aid organizations,0.2
+aid effectiveness,free trade increases,0.2
+low income countries,quality of life,1
+standard of living,international aid,0.7
+goods and services,economic development,0.6
+low income countries,economic development,0.8
+foreign aid,financial times,0.1
+aid effectiveness,combination of goods,0.2
+poor countries,world trade organization,0.1
+effectiveness of aid,civil society organisations,0.5
+development aid,aid organizations,1
+paris declaration,aid agencies,0.7
+free trade,quality of life,0.3
+overseas development institute,international aid,0.8
+poverty reduction,poverty reduction measures,1
+millennium development goals,international aid,0.7
+development assistance committee,aid agencies,0.8
+goods and services,free trade increases,0.6
+poor countries,combination of goods,0
+effectiveness of aid,recipient country,0.5
+impact of aid,poor nations,0.8
+donor and recipient,international aid,0.8
+world bank,aid agencies,0.4
+low income countries,poverty reduction measures,0.9
+foreign aid,country level,0.2
+goods and services,combination of goods,1
+poverty reduction,good governance,0.5
+impact of aid,poverty reduction measures,1
+effectiveness of aid,combination of goods,0.2
+poor countries,country level,0.6
+standard of living,poverty reduction measures,1
+university of massachusetts,low wages,0
+unpaid care work,economic success,0.3
+university of massachusetts,higher wages,0
+feminist economists argue,neoclassical economic,0.2
+care work,economic success,0.1
+mainstream economics,higher wages,0.2
+unpaid care work,capabilities approach,0.3
+domestic work,economic success,0.2
+nancy folbre,higher wages,0.1
+unpaid care work,paid work,1
+university of massachusetts,capabilities approach,0
+market work,low wages,0.6
+market work,neoclassical economic,0.6
+care penalty,amartya sen,0.1
+domestic work,capabilities approach,0.5
+feminist economists claim,amartya sen,0.2
+unpaid work,low wages,0.5
+journal feminist economics,low wages,0.2
+feminist economists argue,amartya sen,0.2
+nancy folbre,amartya sen,0.4
+feminist economists,neoclassical economic,0.6
+quality of care,low wages,0.1
+opportunity cost,paid work,0.4
+care penalty,paid work,0.8
+care work,paid work,1
+journal feminist economics,paid work,0.3
+feminist economics,economic success,0.4
+nancy folbre,capabilities approach,0.2
+care work,higher wages,0.3
+unpaid care work,neoclassical economic,0.1
+human development index,higher wages,0.5
+unpaid work,paid work,0.7
+genetic testing,heritable diseases,0.9
+genetic testing,genetic screening,1
+quad test,heritable diseases,0.8
+quad test,genetic screening,0.8
+live birth,heritable diseases,0.1
+live birth,genetic screening,0
+prenatal diagnosis,heritable diseases,1
+prenatal diagnosis,genetic screening,1
+birth defects,heritable diseases,1
+birth defects,genetic screening,0.8
+spina bifida,heritable diseases,0.7
+spina bifida,genetic screening,0.7
+liberal eugenics,heritable diseases,0.8
+liberal eugenics,genetic screening,0.8
+embryo transfer,heritable diseases,0.3
+embryo transfer,genetic screening,0.3
+genetic test,heritable diseases,1
+genetic test,genetic screening,1
+risk score,heritable diseases,0.8
+risk score,genetic screening,0.8
+live birth rate,heritable diseases,0.4
+live birth rate,genetic screening,0.2
+false positive rate,heritable diseases,0.5
+false positive rate,genetic screening,0.7
+cleavage stage biopsy,heritable diseases,0.7
+cleavage stage biopsy,genetic screening,0.8
+neural tube defects,heritable diseases,0.6
+neural tube defects,genetic screening,0.6
+advanced maternal age,heritable diseases,0.5
+advanced maternal age,genetic screening,0.3
+assisted reproductive technology,heritable diseases,0.6
+assisted reproductive technology,genetic screening,0.6
+preimplantation genetic diagnosis,heritable diseases,0.9
+preimplantation genetic diagnosis,genetic screening,1
+single cell pcr,heritable diseases,0.7
+single cell pcr,genetic screening,0.9
+ivf success rates,heritable diseases,0.3
+ivf success rates,genetic screening,0.3
+human genetic engineering,heritable diseases,0.8
+human genetic engineering,genetic screening,0.6
+gene therapy,heritable diseases,0.9
+gene therapy,genetic screening,0.9
+invasive testing,heritable diseases,0.6
+invasive testing,genetic screening,0.7
+screening test,heritable diseases,1
+screening test,genetic screening,0.9
+maternal serum,heritable diseases,0.8
+maternal serum,genetic screening,0.5
+donor eggs,heritable diseases,0.4
+donor eggs,genetic screening,0.3
+presymptomatic testing,heritable diseases,1
+presymptomatic testing,genetic screening,0.9
+prenatal testing,heritable diseases,0.9
+prenatal testing,genetic screening,0.8
+invasive test,heritable diseases,0.4
+invasive test,genetic screening,0.7
+test results,heritable diseases,0.6
+test results,genetic screening,0.8
+invasive procedure,heritable diseases,0.3
+invasive procedure,genetic screening,0.7
+human genetic engineering,invasive procedure,0.3
+ivf success rates,prenatal testing,0.4
+birth defects,screening test,1
+liberal eugenics,invasive testing,0.2
+human genetic engineering,prenatal testing,0.4
+prenatal diagnosis,prenatal testing,1
+genetic testing,test results,1
+spina bifida,invasive procedure,0
+single cell pcr,invasive test,0.3
+ivf success rates,donor eggs,0.6
+spina bifida,invasive testing,0.1
+genetic test,gene therapy,0.9
+ivf success rates,presymptomatic testing,0.1
+genetic testing,invasive testing,1
+prenatal diagnosis,test results,0.7
+spina bifida,gene therapy,0.2
+liberal eugenics,test results,0
+risk score,invasive testing,0
+live birth rate,invasive procedure,0
+live birth,invasive testing,0
+genetic testing,invasive procedure,0.8
+genetic testing,gene therapy,1
+single cell pcr,screening test,0.8
+spina bifida,maternal serum,0.5
+liberal eugenics,prenatal testing,0.6
+preimplantation genetic diagnosis,presymptomatic testing,0.6
+genetic testing,maternal serum,0.9
+genetic testing,invasive test,0.8
+assisted reproductive technology,screening test,0.2
+false positive rate,presymptomatic testing,0.4
+false positive rate,donor eggs,0
+live birth rate,gene therapy,0
+embryo transfer,invasive test,0.1
+ivf success rates,maternal serum,0.3
+cleavage stage biopsy,gene therapy,0.2
+live birth rate,invasive test,0
+genetic test,screening test,1
+false positive rate,gene therapy,0
+neural tube defects,screening test,0.7
+neural tube defects,gene therapy,0.1
+live birth,prenatal testing,0.1
+risk score,prenatal testing,0.8
+advanced maternal age,invasive procedure,0
+live birth,screening test,0
+assisted reproductive technology,test results,0
+human genetic engineering,maternal serum,0
+single cell pcr,presymptomatic testing,0.3
+neural tube defects,prenatal testing,0.8
+prenatal diagnosis,donor eggs,0.1
+spina bifida,test results,0.5
+genetic testing,prenatal testing,0.8
+assisted reproductive technology,gene therapy,0.3
+genetic test,donor eggs,0.2
+embryo transfer,invasive testing,0.1
+preimplantation genetic diagnosis,invasive test,0.4
+human genetic engineering,invasive testing,0.4
+birth defects,gene therapy,0.6
+neural tube defects,invasive procedure,0.2
+assisted reproductive technology,invasive procedure,0.5
+assisted reproductive technology,prenatal testing,0.3
+assisted reproductive technology,invasive testing,0.3
+cleavage stage biopsy,maternal serum,0
+cleavage stage biopsy,presymptomatic testing,0.4
+advanced maternal age,prenatal testing,0.4
+birth defects,test results,0.4
+prenatal diagnosis,maternal serum,0.6
+prenatal diagnosis,screening test,0.9
+risk score,invasive procedure,0.1
+liberal eugenics,presymptomatic testing,0.3
+quad test,presymptomatic testing,0.5
+genetic test,maternal serum,0.8
+embryo transfer,donor eggs,0.6
+ivf success rates,invasive testing,0
+human genetic engineering,test results,0.2
+risk score,maternal serum,0.1
+false positive rate,screening test,0.7
+single cell pcr,prenatal testing,0.7
+cleavage stage biopsy,test results,0.6
+live birth rate,maternal serum,0.1
+live birth rate,test results,0
+preimplantation genetic diagnosis,screening test,0.8
+prenatal diagnosis,presymptomatic testing,1
+embryo transfer,screening test,0
+human genetic engineering,presymptomatic testing,0.3
+single cell pcr,gene therapy,0.2
+advanced maternal age,screening test,0.3
+risk score,presymptomatic testing,0.6
+risk score,invasive test,0.2
+birth defects,prenatal testing,1
+wind farm,wind power,1
+wind farm,energy supply,1
+wind power,wind power,1
+wind power,energy supply,1
+wind turbines,wind power,1
+wind turbines,energy supply,1
+wind energy,wind power,1
+wind energy,energy supply,1
+renewable energy,wind power,0.9
+renewable energy,energy supply,0.9
+wind turbine,wind power,1
+wind turbine,energy supply,1
+fossil fuels,wind power,0.4
+fossil fuels,energy supply,0.9
+energy sources,wind power,0.9
+energy sources,energy supply,1
+capacity factor,wind power,0.4
+capacity factor,energy supply,0.8
+wind project,wind power,1
+wind project,energy supply,0.7
+offshore wind farms,wind power,1
+offshore wind farms,energy supply,1
+offshore wind power,wind power,1
+offshore wind power,energy supply,1
+production tax credit,wind power,0.3
+production tax credit,energy supply,0.5
+offshore wind farm,wind power,1
+offshore wind farm,energy supply,0.9
+renewable energy sources,wind power,1
+renewable energy sources,energy supply,0.9
+greenhouse gas emissions,wind power,0.5
+greenhouse gas emissions,energy supply,0.6
+energy policy act,wind power,0.8
+energy policy act,energy supply,0.8
+cape wind project,wind power,1
+cape wind project,energy supply,1
+wind power capacity,wind power,1
+wind power capacity,energy supply,0.9
+renewable portfolio standards,wind power,0.7
+renewable portfolio standards,energy supply,0.7
+kilowatt hour,wind power,0.5
+kilowatt hour,energy supply,0.7
+wind speed,wind power,1
+wind speed,energy supply,0.4
+electricity production,wind power,1
+electricity production,energy supply,0.9
+installed capacity,wind power,0.3
+installed capacity,energy supply,0.6
+carbon dioxide,wind power,0.2
+carbon dioxide,energy supply,0.3
+national grid,wind power,0.2
+national grid,energy supply,0.8
+renewable electricity,wind power,1
+renewable electricity,energy supply,1
+capacity credit,wind power,0.5
+capacity credit,energy supply,0.8
+electricity generation,wind power,0.8
+electricity generation,energy supply,0.9
+power stations,wind power,0.8
+power stations,energy supply,0.9
+national renewable energy,wind power,1
+national renewable energy,energy supply,1
+largest wind farm,wind power,0.9
+largest wind farm,energy supply,0.8
+wind energy projects,wind power,1
+wind energy projects,energy supply,1
+walney wind farm,wind power,1
+walney wind farm,energy supply,1
+operations and maintenance,wind power,0.1
+operations and maintenance,energy supply,0.2
+whitelee wind farm,wind power,1
+whitelee wind farm,energy supply,1
+renewable energy technologies,wind power,1
+renewable energy technologies,energy supply,1
+wind energy association,wind power,1
+wind energy association,energy supply,0.9
+renewable energy production,wind power,1
+renewable energy production,energy supply,1
+wind energy policy,wind power,1
+wind energy policy,energy supply,0.7
+offshore wind power,operations and maintenance,0.4
+wind power,electricity generation,1
+wind turbine,wind energy projects,1
+wind energy,renewable energy technologies,1
+renewable energy,national renewable energy,1
+cape wind project,renewable energy technologies,0.9
+cape wind project,wind energy policy,0.9
+renewable portfolio standards,installed capacity,0.2
+greenhouse gas emissions,operations and maintenance,0
+offshore wind farms,wind speed,0.9
+greenhouse gas emissions,electricity generation,0.8
+energy policy act,walney wind farm,0.1
+wind turbines,national grid,0.3
+offshore wind farms,kilowatt hour,0.5
+wind power,capacity credit,0.5
+wind energy,wind energy projects,1
+wind energy,renewable electricity,0.9
+wind project,largest wind farm,0.8
+wind energy,installed capacity,0.5
+wind energy,wind speed,0.9
+renewable energy,renewable energy technologies,1
+production tax credit,largest wind farm,0
+offshore wind power,electricity production,0.9
+renewable portfolio standards,national grid,0.3
+greenhouse gas emissions,capacity credit,0
+renewable portfolio standards,largest wind farm,0.1
+wind turbines,electricity production,0.9
+wind turbine,wind speed,0.9
+capacity factor,national grid,0.4
+wind power,national grid,0.5
+wind farm,wind energy policy,1
+wind power capacity,wind energy policy,0.9
+wind project,national grid,0.4
+wind turbine,capacity credit,0.3
+energy policy act,renewable energy technologies,0.9
+renewable energy,capacity credit,0.6
+offshore wind farms,electricity generation,0.9
+cape wind project,walney wind farm,0.8
+offshore wind farms,largest wind farm,0.9
+renewable energy,renewable electricity,1
+renewable energy sources,renewable energy technologies,1
+wind turbine,wind energy association,0.9
+renewable energy sources,wind energy projects,0.9
+wind turbines,renewable electricity,0.9
+wind power capacity,capacity credit,0.9
+renewable energy sources,renewable energy production,1
+production tax credit,electricity production,0.6
+wind farm,capacity credit,0.7
+renewable energy sources,electricity generation,0.9
+wind power capacity,installed capacity,0.9
+greenhouse gas emissions,wind energy association,0.1
+wind power capacity,operations and maintenance,0.1
+offshore wind farm,largest wind farm,0.7
+deep ecology,endangered species,0.8
+habitat destruction,endangered species,1
+conservation biology,endangered species,1
+ecosystem services,endangered species,0.8
+genetic resources,endangered species,0.7
+conservation biologists,endangered species,1
+biological diversity,endangered species,1
+natural habitat,endangered species,1
+genetic diversity,endangered species,0.9
+million years,endangered species,0.1
+million years ago,endangered species,0.1
+mutually agreed terms,endangered species,0.1
+mass extinction events,endangered species,1
+number of species,endangered species,0.8
+destruction of habitat,endangered species,1
+species and ecosystems,endangered species,0.9
+endangered species act,endangered species,1
+loss of biodiversity,endangered species,1
+natural resource management,endangered species,0.7
+iucn red list,endangered species,0.9
+extinction event,endangered species,1
+species loss,endangered species,1
+species extinctions,endangered species,1
+habitat loss,endangered species,1
+natural history,endangered species,0.4
+coral reefs,endangered species,0.7
+invasive species,endangered species,0.7
+libertarian extension,endangered species,0.5
+national parks,endangered species,0.6
+deep ecologists,endangered species,0.9
+genetic resources,coral reefs,0.5
+number of species,species loss,1
+natural resource management,libertarian extension,0.4
+natural habitat,species extinctions,0.8
+endangered species act,libertarian extension,0.4
+genetic resources,libertarian extension,0.1
+genetic diversity,habitat loss,0.9
+mutually agreed terms,libertarian extension,0
+conservation biology,natural history,0.3
+conservation biologists,deep ecologists,0.9
+deep ecology,extinction event,0.2
+million years ago,natural history,0.6
+species and ecosystems,invasive species,0.7
+number of species,coral reefs,0.4
+destruction of habitat,coral reefs,0.6
+genetic resources,natural history,0.1
+iucn red list,libertarian extension,0.1
+mass extinction events,national parks,0.2
+biological diversity,species loss,0.9
+loss of biodiversity,habitat loss,1
+austerity measures,austerity measures,1
+austerity measures,social support,0.7
+austerity package,austerity measures,1
+austerity package,social support,0.6
+greek government,austerity measures,1
+greek government,social support,0.6
+deficit spending,austerity measures,0.9
+deficit spending,social support,0.5
+greek debt,austerity measures,1
+greek debt,social support,0.5
+debt crisis,austerity measures,1
+debt crisis,social support,0.7
+public debt,austerity measures,1
+public debt,social support,0.8
+welfare state,austerity measures,0.8
+welfare state,social support,1
+debt level,austerity measures,0.9
+debt level,social support,0.7
+orderly default,austerity measures,0.7
+orderly default,social support,0.1
+paradox of thrift,austerity measures,0.7
+paradox of thrift,social support,0.4
+greek government bonds,austerity measures,0.6
+greek government bonds,social support,0.3
+european central bank,austerity measures,0.6
+european central bank,social support,0.3
+greek government debt,austerity measures,1
+greek government debt,social support,0.7
+greek governmental bonds,austerity measures,0.7
+greek governmental bonds,social support,0.2
+collective action clause,austerity measures,0.8
+collective action clause,social support,0.2
+debt restructure agreement,austerity measures,0.7
+debt restructure agreement,social support,0.2
+private capital markets,austerity measures,0.3
+private capital markets,social support,0.1
+gdp growth rates,austerity measures,0.8
+gdp growth rates,social support,0.1
+minister of finance,austerity measures,0.9
+minister of finance,social support,0.4
+sovereign default,austerity measures,0.6
+sovereign default,social support,0.2
+private holders,austerity measures,0
+private holders,social support,0.1
+year bonds,austerity measures,0.1
+year bonds,social support,0
+sovereign debt,austerity measures,0.7
+sovereign debt,social support,0.4
+debt swap,austerity measures,0.4
+debt swap,social support,0.2
+government deficit,austerity measures,1
+government deficit,social support,0.5
+budget deficit,austerity measures,1
+budget deficit,social support,0.5
+private sector,austerity measures,0.1
+private sector,social support,0.1
+harsh austerity,austerity measures,1
+harsh austerity,social support,0.9
+esping andersen,austerity measures,0.3
+esping andersen,social support,0.9
+greek government,sovereign default,0.9
+welfare state,year bonds,0
+austerity package,year bonds,0.2
+greek governmental bonds,sovereign default,0.6
+greek government debt,esping andersen,0.1
+paradox of thrift,private holders,0.4
+greek government,sovereign debt,0.7
+welfare state,private sector,0.2
+debt restructure agreement,debt swap,1
+greek debt,private holders,0.3
+european central bank,harsh austerity,0.2
+private capital markets,private sector,0.9
+greek government bonds,debt swap,0.4
+minister of finance,private holders,0.2
+public debt,harsh austerity,0.8
+paradox of thrift,esping andersen,0.2
+greek governmental bonds,government deficit,0.9
+orderly default,debt swap,0.6
+minister of finance,debt swap,0.3
+greek government debt,year bonds,0.5
+debt crisis,private holders,0.4
+debt restructure agreement,sovereign default,0.8
+private capital markets,government deficit,0.4
+welfare state,private holders,0
+debt crisis,harsh austerity,1
+greek debt,debt swap,0.9
+debt crisis,debt swap,1
+minister of finance,government deficit,0.8
+european central bank,esping andersen,0.1
+gdp growth rates,sovereign default,0.2
+european central bank,year bonds,0.2
+orderly default,harsh austerity,0.7
+deficit spending,debt swap,0.3
+gdp growth rates,esping andersen,0.1
+greek governmental bonds,budget deficit,0.6
+debt restructure agreement,budget deficit,0.5
+debt restructure agreement,esping andersen,0
+gdp growth rates,year bonds,0.2
+public debt,esping andersen,0.2
+orderly default,private sector,0.1
+debt level,sovereign debt,0.9
+austerity measures,esping andersen,0.1
+debt crisis,esping andersen,0.2
+debt restructure agreement,sovereign debt,1
+austerity package,debt swap,0.5
+debt crisis,sovereign default,0.9
+collective action clause,sovereign default,0.7
+private capital markets,private holders,1
+debt level,year bonds,0.1
+greek government bonds,year bonds,0.7
+paradox of thrift,government deficit,0.5
+greek debt,esping andersen,0.1
+austerity package,government deficit,0.8
+austerity measures,private holders,0.1
+debt level,private sector,0.1
+welfare state,debt swap,0.3
+greek governmental bonds,harsh austerity,0.6
+greek debt,sovereign default,0.9
+greek government,esping andersen,0
+collective action clause,sovereign debt,0.5
+minister of finance,sovereign default,0.6
+debt crisis,year bonds,0.2
+greek government,private holders,0.1
+private capital markets,year bonds,0.3
+welfare state,harsh austerity,0.4
+debt restructure agreement,private holders,0.3
+greek debt,harsh austerity,0.9
+minister of finance,budget deficit,0.8
+austerity measures,sovereign default,0.7
+debt restructure agreement,year bonds,0.2
+welfare state,sovereign debt,0.5
+public debt,sovereign debt,1
+deficit spending,year bonds,0.2
+austerity package,sovereign default,0.6
+welfare state,government deficit,0.5
+collective action clause,budget deficit,0.4
+debt restructure agreement,harsh austerity,0.7
+greek governmental bonds,year bonds,0.7
+european central bank,private holders,0.1
+austerity measures,year bonds,0.1
+search results,search results,1
+internet censorship,search results,0.9
+google china,search results,0.9
+internet users,search results,0.5
+search engine,search results,1
+web sites,search results,0.9
+ip address,search results,0.3
+chinese internet,search results,0.6
+search engines,search results,1
+chinese government,search results,0.3
+corporate social responsibility,search results,0.3
+terms of service,search results,0.2
+golden shield project,search results,0.6
+countries under surveillance,search results,0.1
+google's search engine,search results,1
+street view program,search results,0.4
+typical circumvention methods,search results,0.4
+reporters without borders,search results,0.1
+people with disabilities,search results,0
+triple bottom line,search results,0
+csr policy,search results,0.2
+chinese authorities,search results,0.2
+hong kong,search results,0.1
+computer information,search results,0.3
+web companies,search results,0.3
+great firewall,search results,0.7
+internet security,search results,0.4
+gmail accounts,search results,0
+google search,search results,0.8
+mainland chinese,search results,0.2
+search results,gmail accounts,0.1
+corporate social responsibility,chinese authorities,0.1
+street view program,chinese authorities,0
+internet users,csr policy,0.3
+google china,gmail accounts,0.8
+triple bottom line,great firewall,0.1
+ip address,mainland chinese,0.1
+internet censorship,google search,1
+ip address,great firewall,0.7
+terms of service,web companies,0.8
+web sites,web companies,1
+ip address,google search,0.5
+search results,great firewall,0.7
+internet users,web companies,0.5
+terms of service,csr policy,0.6
+search engines,computer information,0.3
+search engines,hong kong,0.1
+google china,google search,0.9
+internet censorship,csr policy,0.4
+google china,hong kong,0.6
+internet users,internet security,0.7
+web sites,gmail accounts,0.3
+ip address,csr policy,0.1
+google china,internet security,0.5
+ip address,internet security,0.5
+street view program,computer information,0.3
+google's search engine,chinese authorities,0.7
+internet users,google search,0.9
+people with disabilities,internet security,0
+chinese internet,chinese authorities,1
+golden shield project,great firewall,1
+ip address,web companies,0.4
+countries under surveillance,google search,0.2
+search engines,great firewall,0.7
+internet censorship,gmail accounts,0.2
+internet censorship,web companies,0.6
+internet users,gmail accounts,0.7
+typical circumvention methods,great firewall,0.8
+triple bottom line,web companies,0.4
+golden shield project,csr policy,0.3
+reporters without borders,internet security,0.3
+google's search engine,web companies,0.7
+search engines,gmail accounts,0.2
+reporters without borders,computer information,0.3
+golden shield project,computer information,0.5
+terms of service,gmail accounts,0.7
+countries under surveillance,gmail accounts,0.1
+street view program,hong kong,0.1
+chinese internet,gmail accounts,0.4
+ip address,hong kong,0
+people with disabilities,chinese authorities,0
+golden shield project,mainland chinese,0.6
+search results,web companies,0.2
+terms of service,great firewall,0.1
+corporate social responsibility,gmail accounts,0.3
+triple bottom line,computer information,0
+search engine,computer information,0.3
+search engines,mainland chinese,0.1
+typical circumvention methods,csr policy,0
+search engine,google search,1
+countries under surveillance,great firewall,0.5
+typical circumvention methods,gmail accounts,0.1
+people with disabilities,hong kong,0
+google's search engine,internet security,0.5
+internet users,chinese authorities,0.3
+chinese government,csr policy,0.1
+terms of service,computer information,0.2
+triple bottom line,internet security,0.1
+corporate social responsibility,computer information,0.1
+typical circumvention methods,chinese authorities,0.3
+search results,hong kong,0
+chinese internet,great firewall,1
+golden shield project,internet security,0.8
+chinese internet,web companies,0.4
+search engine,mainland chinese,0.3
+gun control,right to bear arms,1
+gun ownership,right to bear arms,1
+bear arms,right to bear arms,1
+gun rights,right to bear arms,0.9
+gun violence,right to bear arms,0.9
+gun laws,right to bear arms,1
+violent crime,right to bear arms,0.6
+gun related,right to bear arms,0.8
+gun owners,right to bear arms,1
+united states,right to bear arms,0.6
+gun control laws,right to bear arms,1
+bill of rights,right to bear arms,0.6
+law abiding citizens,right to bear arms,0.3
+gun control legislation,right to bear arms,0.9
+gun rights advocates,right to bear arms,0.9
+national rifle association,right to bear arms,0.9
+gun control advocates,right to bear arms,0.9
+gun control act,right to bear arms,0.9
+national firearms act,right to bear arms,0.9
+firearms and ammunition,right to bear arms,1
+domestic violence,right to bear arms,0.4
+law enforcement,right to bear arms,0.5
+gary kleck,right to bear arms,0.7
+gun possession,right to bear arms,1
+operation ceasefire,right to bear arms,0.6
+firearm ownership,right to bear arms,0.8
+fully automatic,right to bear arms,0.2
+gun crime,right to bear arms,0.6
+pro gun,right to bear arms,0.8
+automatic weapons,right to bear arms,0.8
+type of weapon,right to bear arms,0.5
+number of guns,right to bear arms,0.7
+carrying of arms,right to bear arms,1
+district of columbia,right to bear arms,0.3
+collective rights model,right to bear arms,0.5
+weapons and ammunition,right to bear arms,1
+american gun culture,right to bear arms,1
+assault weapons ban,right to bear arms,0.9
+fully automatic firearms,right to bear arms,0.7
+rates of gun,right to bear arms,0.4
+gun control,pro gun,0.9
+national firearms act,pro gun,0.8
+united states,number of guns,0.2
+gun laws,rates of gun,0.5
+gun control,gary kleck,0.7
+gun control legislation,carrying of arms,0.9
+gun control legislation,type of weapon,0.7
+law abiding citizens,fully automatic firearms,0
+national firearms act,operation ceasefire,0.4
+national rifle association,weapons and ammunition,0.7
+gun ownership,gun crime,0.8
+gun control advocates,gun crime,0.8
+law abiding citizens,law enforcement,0.7
+gun control,district of columbia,0.3
+gun control,american gun culture,0.9
+gun control act,fully automatic firearms,0.4
+gun control advocates,fully automatic,0.1
+gun owners,collective rights model,0.3
+gun control laws,automatic weapons,0.6
+national firearms act,gary kleck,0.1
+gun control laws,gary kleck,0.8
+gun ownership,pro gun,1
+law abiding citizens,gun possession,0.5
+bill of rights,carrying of arms,0.6
+gun control act,automatic weapons,0.7
+gun rights,assault weapons ban,0.8
+local officials,money laundering,0.2
+trading in influence,election campaigns,0.4
+corruption perceptions index,widespread corruption,1
+states parties,private gain,0.2
+directly or indirectly,bank accounts,0.1
+public funds,election campaigns,0.6
+funding of political,international levels,0.1
+local officials,law convention,0.1
+states parties,social housing,0.1
+corruption perceptions index,bank accounts,0.1
+anti corruption,law convention,0.5
+corruption in china,election campaigns,0.3
+council of europe,social housing,0
+political corruption,law convention,0.2
+corruption perceptions index,legal assistance,0.1
+public official,private gain,0.5
+public funds,international levels,0
+trading in influence,bank accounts,0
+difficult to prove,law convention,0.1
+directly or indirectly,money laundering,0.2
+public official,national wealth,0.3
+states parties,law convention,0.1
+people of burma,shwedagon pagoda,0.5
+development party,southeast asia,0.1
+sanctions on burma,southeast asia,0.5
+burmese military regime,shwedagon pagoda,0.3
+people of burma,suu kyi,0.8
+national democratic force,suu kyi,0.7
+ibrahim gambari,human rights abuses,0.4
+pro democracy,national development party,0.7
+people of burma,house arrest,0.1
+national democratic force,shan states,0.2
+free burma coalition,lan na,0.2
+buddhist monks,thein sein,0.3
+buddhist monks,kenji nagai,0.3
+military junta,shwedagon pagoda,0.2
+burmese government,kachin state,0.7
+ibrahim gambari,shan states,0.1
+sanctions on burma,house arrest,0.2
+development party,china and india,0
+development party,kenji nagai,0
+political prisoners,national development party,0.2
+burmese military regime,thein sein,0.8
+monks and civilians,shan states,0.3
+union of burma,human rights abuses,0.7
+free burma coalition,shwedagon pagoda,0.1
+military rulers,national development party,0.4
+people of burma,thein sein,0.7
+human rights,southeast asia,0.2
+burmese government,southeast asia,0.9
+burmese military junta,southeast asia,0.8
+military government,shan state,0.2
+sanctions on burma,thein sein,0.3
+military rulers,southeast asia,0.2
+ibrahim gambari,china and india,0
+political prisoners,shan state,0
+people of burma,kachin state,0.7
+buddhist monks,suu kyi,0.2
+ibrahim gambari,kachin state,0.1
+human rights,shan states,0.1
+free burma coalition,human rights abuses,0.8
+military government,national development party,0.4
+military government,lan na,0.2
+burmese military junta,house arrest,0.2
+human rights,kenji nagai,0.4
+monks and civilians,china and india,0.3
+burma campaign uk,lan na,0
+oil sands,keystone xl pipeline,0.9
+crude oil,keystone xl pipeline,1
+keystone xl,keystone xl pipeline,1
+ogallala aquifer,keystone xl pipeline,0.9
+keystone pipeline,keystone xl pipeline,1
+natural gas,keystone xl pipeline,0.6
+natural bitumen,keystone xl pipeline,0.8
+gas pipelines,keystone xl pipeline,0.8
+greenhouse gases,keystone xl pipeline,0.8
+oil production,keystone xl pipeline,1
+keystone xl pipeline,keystone xl pipeline,1
+canadian oil sands,keystone xl pipeline,1
+athabasca oil sands,keystone xl pipeline,0.9
+alberta oil sands,keystone xl pipeline,1
+synthetic crude oil,keystone xl pipeline,1
+conventional crude oil,keystone xl pipeline,0.9
+oil and gas,keystone xl pipeline,1
+greenhouse gas emissions,keystone xl pipeline,0.8
+oil sands extraction,keystone xl pipeline,1
+product being transported,keystone xl pipeline,0.7
+pump stations,keystone xl pipeline,0.9
+bituminous sands,keystone xl pipeline,0.9
+alberta government,keystone xl pipeline,0.8
+steam injection,keystone xl pipeline,0.2
+surface mining,keystone xl pipeline,0.4
+unconventional oil,keystone xl pipeline,1
+compressor stations,keystone xl pipeline,0.4
+tar sands,keystone xl pipeline,0.6
+liquid pipelines,keystone xl pipeline,0.9
+cushing oklahoma,keystone xl pipeline,0.5
+keystone xl pipeline,bituminous sands,0.8
+conventional crude oil,steam injection,0.5
+keystone xl,cushing oklahoma,0.4
+conventional crude oil,liquid pipelines,0.7
+natural bitumen,tar sands,0.7
+conventional crude oil,tar sands,0.4
+keystone pipeline,bituminous sands,0.6
+natural gas,cushing oklahoma,0.1
+product being transported,cushing oklahoma,0.3
+product being transported,bituminous sands,0
+ogallala aquifer,alberta government,0.1
+ogallala aquifer,unconventional oil,0.1
+natural bitumen,compressor stations,0.1
+greenhouse gas emissions,cushing oklahoma,0
+gas pipelines,cushing oklahoma,0.3
+crude oil,compressor stations,0.1
+natural bitumen,alberta government,0.3
+oil production,compressor stations,0.2
+greenhouse gas emissions,compressor stations,0.4
+south pole,antarctic continent,1
+antarctic treaty,antarctic continent,0.9
+common heritage,antarctic continent,0.5
+west antarctica,antarctic continent,1
+antarctic peninsula,antarctic continent,1
+sea level,antarctic continent,0.6
+east antarctica,antarctic continent,1
+ice sheet,antarctic continent,0.8
+mount erebus,antarctic continent,0.9
+ice shelf,antarctic continent,0.8
+antarctic ice sheet,antarctic continent,1
+future generations,antarctic continent,0.4
+international law,antarctic continent,0.3
+outer space,antarctic continent,0
+research stations,antarctic continent,0.9
+human genome,antarctic continent,0
+mount erebus,future generations,0
+west antarctica,future generations,0.1
+common heritage,future generations,0.7
+west antarctica,outer space,0
+south pole,human genome,0
+common heritage,human genome,0.3
+ice shelf,future generations,0.1
+antarctic treaty,future generations,0.7
+antarctic ice sheet,future generations,0.1
+ice sheet,human genome,0
+west antarctica,human genome,0
+antarctic treaty,research stations,0.6
+sea level,human genome,0
+ice shelf,international law,0
+antarctic ice sheet,international law,0
+west antarctica,research stations,0.7
+mount erebus,research stations,0.1
+ice sheet,research stations,0.1
+south pole,research stations,0.7
+east antarctica,research stations,0.7
+common heritage,research stations,0.1
+antarctic peninsula,outer space,0
+antarctic treaty,international law,0.9
+ice sheet,international law,0
+antarctic peninsula,research stations,0.6
+mount erebus,human genome,0
+antarctic treaty,human genome,0
+east antarctica,future generations,0.1
+bandwagon effect,opinion polls,0.8
+bandwagon effect,democratic process,0.3
+exit poll,opinion polls,1
+exit poll,democratic process,0.6
+public opinion,opinion polls,1
+public opinion,democratic process,0.7
+opinion polls,opinion polls,1
+opinion polls,democratic process,0.9
+push poll,opinion polls,1
+push poll,democratic process,0.5
+poll results,opinion polls,1
+poll results,democratic process,0.5
+push polling,opinion polls,1
+push polling,democratic process,0.4
+computer mediated,opinion polls,0.3
+computer mediated,democratic process,0.1
+sample size,opinion polls,0.9
+sample size,democratic process,0.1
+polling organizations,opinion polls,1
+polling organizations,democratic process,0.3
+spiral of silence,opinion polls,0.4
+spiral of silence,democratic process,0.3
+fear of isolation,opinion polls,0.3
+fear of isolation,democratic process,0.4
+margin of error,opinion polls,0.8
+margin of error,democratic process,0.1
+willingness to speak,opinion polls,0.6
+willingness to speak,democratic process,0.3
+face to face,opinion polls,0.2
+face to face,democratic process,0
+uk general election,opinion polls,0.7
+uk general election,democratic process,1
+u.s presidential election,opinion polls,0.8
+u.s presidential election,democratic process,1
+general election,opinion polls,0.8
+general election,democratic process,1
+majority opinion,opinion polls,0.9
+majority opinion,democratic process,1
+survey results,opinion polls,1
+survey results,democratic process,0.6
+opinion poll,opinion polls,1
+opinion poll,democratic process,0.9
+presidential election,opinion polls,0.8
+presidential election,democratic process,1
+research article,opinion polls,0.2
+research article,democratic process,0
+organisations include,opinion polls,0
+organisations include,democratic process,0
+sampling error,opinion polls,0.8
+sampling error,democratic process,0.2
+election results,opinion polls,0.6
+election results,democratic process,0.9
+confidence interval,opinion polls,0.7
+confidence interval,democratic process,0.3
+willingness to speak,general election,0.1
+spiral of silence,opinion poll,0.5
+public opinion,election results,0.9
+polling organizations,survey results,0.9
+public opinion,presidential election,0.8
+willingness to speak,opinion poll,0.7
+computer mediated,presidential election,0
+face to face,general election,0
+polling organizations,general election,0.7
+fear of isolation,majority opinion,0.7
+margin of error,election results,0.4
+fear of isolation,research article,0
+opinion polls,confidence interval,0.7
+spiral of silence,presidential election,0.2
+poll results,majority opinion,0.9
+willingness to speak,confidence interval,0
+exit poll,majority opinion,0.5
+push polling,presidential election,0.8
+willingness to speak,sampling error,0.1
+push polling,research article,0
+computer mediated,majority opinion,0.1
+push poll,sampling error,0.2
+sample size,general election,0.1
+sample size,survey results,0.8
+exit poll,presidential election,0.8
+bandwagon effect,organisations include,0
+computer mediated,survey results,0.4
+bandwagon effect,confidence interval,0
+push polling,opinion poll,1
+uk general election,confidence interval,0.1
+margin of error,research article,0.2
+u.s presidential election,survey results,0.8
+public opinion,majority opinion,0.9
+poll results,organisations include,0.1
+opinion polls,sampling error,0.8
+uk general election,sampling error,0.2
+uk general election,survey results,0.3
+spiral of silence,organisations include,0
+spiral of silence,sampling error,0
+common law offence,racial and religious,0.4
+prosecution for blasphemy,dutch government,0.3
+defamation of religion,incitement to hatred,0.8
+prosecution for blasphemy,theo van gogh,0.5
+prophet muhammad,islamic conference,0.5
+blasphemy laws,law offences,0.7
+geert wilders,law offences,0.2
+blasphemous libel,islamic conference,0.2
+freedom of expression,death threats,0.4
+protest movement,death threats,0.3
+freedom of expression,law offences,0.3
+south park episode,death threats,0.1
+protest movement,islamic conference,0.2
+prosecution for blasphemy,insult the prophet,0.9
+jyllands posten,combating defamation,0.4
+blasphemous libel,islamic lawyers,0.3
+blasphemous libel,combating defamation,0.8
+blasphemy laws,theo van gogh,0.6
+jyllands posten,anders fogh rasmussen,0.7
+blasphemy law,muhammad cartoons,0.7
+blasphemy law,prophet mohammed,0.8
+prophet muhammad,thomas aikenhead,0.3
+freedom of expression,incitement to hatred,0.9
+south park episode,combating defamation,0.1
+defamation of religions,combating defamation,0.9
+common law offence,thomas aikenhead,0.2
+blasphemous libel,theo van gogh,0.2
+defamation of religion,insult the prophet,1
+blasphemy law,incitement to hatred,0.7

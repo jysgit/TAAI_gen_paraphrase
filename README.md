@@ -36,7 +36,7 @@ p
    curl -Lo encoders/infersent2.pkl https://dl.fbaipublicfiles.com/infersent/infersent2.pkl
    ```
 2. 利用 get_emb_from_InferSent.py 抓取 phrase embeddings。
-   ex. `python get_emb_from_InferSent.py -w2v models/myfinetuned/vector.kv -if encoders/infersent2.pkl -wd word_embs -bd bundle_embs bundles.txt`  
+   ex. `python get_emb_from_InferSent.py -w2v models/${YOUR_MODEL}/vector.kv -if encoders/infersent2.pkl -wd word_embs -bd bundle_embs bundles.txt`  
    **參數說明：**  
     + `-w2v`: gensim.KeyedVector 格式的 w2v embedding 位置。可用 [train.py](#Training) 輸出的 `vector.kv` 檔案作為 input。
     + `-if`: InferSent 的 pretrained model 位置。
@@ -47,3 +47,11 @@ p
 `most_similar.[py|ipynb]`為方便快速查詢 embedding 最相近的 phrases 的互動式程式，可用來找尋指定資料夾中最相近的 bundles。  
  + 用法： `python most_similar.py -n ${#RESULT} ${EMBEDDING_FOLDER} [${EMBEDDING_FOLDER}...]`。
  + 範例： `python most_similar.py -n 10 bundle_emb1/ budle_emb2/`
+
+## Evaluate with T9856 dataset
+* Original Dataset: [From IBM](https://www.research.ibm.com/haifa/dept/vst/debating_data.shtml)  
+
+1. 先取得所有 evaluation phrase 的 embedding:
+   + InferSent: `python get_emb_from_InferSent.py -w2v models/${YOUR_MODEL}/vector.kv -if encoders/infersent2.pkl -wd word_embs -bd eval_embs data/T9856_phrases.txt`
+2. 算出我們 model 與以 T9856 作為 ground truth 的相關係數
+   `python evaluate_T9856.py data/T9856_eval_file.txt eval_embs`
