@@ -54,3 +54,7 @@ Use lexical bundles in "Lonely Planet" to generate comprehensive phrase embeddin
    + InferSent: `python get_emb_from_InferSent.py -w2v models/${YOUR_MODEL}/vector.kv -if encoders/infersent2.pkl -wd word_embs -bd eval_embs data/T9856_phrases.txt`
 2. 算出我們 model 與以 T9856 作為 ground truth 的相關係數  
    `python evaluate_T9856.py data/T9856_eval_file.txt eval_embs`
+
+
+Extract Embedding
+
